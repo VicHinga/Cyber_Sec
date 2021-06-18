@@ -1,0 +1,37 @@
+	1. Select the DevOps process in which developers or IT operations teams can programmatically provision and manage the 	   infrastructure stack (such as virtual machines, networks, and connectivity) for an application in software. ( c )
+a. PaaS
+
+b. SaaS
+
+c. IaC
+
+d. IaaS
+
+
+	2. (True )  It is possible for an organization to be compliant with all applicable security and privacy regulations for its 	   	           industry, yet still not be secure.
+
+	3. Which cybersecurity regulation strengthens data protection for European Union (EU) residents and addresses the export of 	   personal data outside the EU?  ( d )
+
+a. North American Electric Reliability Corporation (NERC) Critical Infrastructure Protection (CIP)
+
+b. Payment Card Industry Data Security Standard (PCI DSS)
+
+c. Canada Personal Information Protection and Electronic Documents Act (PIPEDA)
+
+d. General Data Protection Regulation (GDPR)
+
+
+	4. The cloud computing service model in which a provider’s applications run on a cloud infrastructure and the consumer does not 	   manage or control the underlying infrastructure is known as: ( b )
+
+Identity as a Service (IDAAS)
+
+Infrastructure as a Service (IAAS)
+
+Software as a Service (SAAS)
+
+Platform as a Service (PAAS)
+
+	5. PCI DSS is mandated and administered by the: ( PCI Security Standards Council (SSC) )
+
+
+
