@@ -1,0 +1,98 @@
+	1. Which of the following WLAN standards is the LEAST secure? Pick two. ( a c )
+
+a. WiFi Protected Setup ( WPS)
+
+b. Wireless Protected Access 2 (WPA2)
+
+c. Wired Equivalent Privacy (WEP)
+
+d. Wireless Protected Access (WPA)
+
+	2. False. The Cyber-Attack Lifecycle framework is a five-step process that an attacker can implement in order to attack a 	   	   network. (7 step)
+
+
+
+	3. Which of the following are examples of an endpoint? Choose 3. (a c d)
+Desktop
+
+Mainframe
+
+Point-Of-Sale (POS) Terminal
+
+Smartphone
+
+
+	4. False. An attacker only needs to successfully execute one step of the Cyber-Attack Lifecycle in order to infiltrate a network, 		   whereas a defender must “be right every time” and break every step of the chain to prevent an attack.
+
+	5. False. Wired Equivalent Privacy (WEP) is the most effective protocol for securing wireless networks.
+
+	6. What is an easy way to make your WiFi security stronger and make it more difficult for hackers to discover your wireless 	   network? (SSSID)
+Change the Service Set Identifier (SSID)
+
+Change the Initialization Vector (IV)
+
+Change the Extensible Authentication Protocol (EAP)
+
+Change the Access Point (AP) Password
+
+	7. Which type of attacker is motivated by political or social causes? ( d )
+a. Cybercriminal
+
+b. State-affiliated
+
+c. Cyberterrorist
+
+d. Hacktivist
+
+	8. Which technique is NOT used to break the command and control (CnC) phase of the Cyber Kill Chain®? (d)
+DNS sinkholing
+
+Blocking outbound traffic to known malicious sites and IP addresses
+
+DNS poisoning
+
+Vulnerability and Patch Management
+
+
+
+
+Morris worm: https://www.fbi.gov/news/stories/morris-worm-30-years-since-first-major-attack-on-internet-110218
+
+NASA breach:https://spacenews.com/nasa-data-breach-highlights-agency-cybersecurity-problems/
+
+TJX Breach: https://money.cnn.com/gallery/technology/security/2013/12/19/biggest-credit-card-hacks/3.html
+
+Monster.com Breach: https://www.csoonline.com/article/2123640/monster-com-breach--again----evolution-of-a-disclosure-letter.html
+
+Heartland Breach: https://www.observeit.com/blog/throwback-thursday-lessons-learned-from-the-2008-heartland-breach/
+
+Sony Breach: https://www.bankinfosecurity.com/sony-pictures-cyber-attack-timeline-a-7710
+
+MySpace Hack: https://techcrunch.com/2016/05/31/recently-confirmed-myspace-hack-could-be-the-largest-yet/
+
+LinkedIN Breach: https://en.wikipedia.org/wiki/2012_LinkedIn_hack
+
+Experian Breach: https://www.darkreading.com/attacks-and-breaches/experian-id-theft-exposed-200m-consumer-records/d/d-id/1127640
+
+Adobe Breach: https://www.theguardian.com/technology/2013/oct/03/adobe-hacking-data-breach-cyber-attack
+
+Target Breach: https://www.usatoday.com/story/money/2017/05/23/target-pay-185m-2013-data-breach-affected-consumers/102063932/
+
+Anthem Breach: https://www.bankinfosecurity.com/new-in-depth-analysis-anthem-breach-a-9627
+
+EBay Breach: https://www.bankinfosecurity.com/ebay-a-6858
+
+Yahoo Breaches: https://en.wikipedia.org/wiki/Yahoo!_data_breaches
+
+Cathy Pacific Breach: https://www.forbes.com/sites/willhorton1/2019/06/06/cathay-pacific-faulted-for-data-breach-but-hackers-objective-unclear/
+
+Equifax Breach: https://money.cnn.com/2017/09/07/technology/business/equifax-data-breach/index.html
+
+Marriot Breach: https://www.apnews.com/d496fce7a77347d6aa058470d38a69bc
+
+Under Armour Breach: https://www.cnbc.com/2018/03/29/under-armour-stock-falls-after-company-admits-data-breach.html
+
+Captial One breach: https://www.cnn.com/2019/07/29/business/capital-one-data-breach/index.html
+
+New Malware Registration: https://www.av-test.org/en/statistics/malware/
+
