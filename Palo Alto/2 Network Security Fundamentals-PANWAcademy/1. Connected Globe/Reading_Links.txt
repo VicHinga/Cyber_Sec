@@ -1,0 +1,32 @@
+
+
+** 1. Connected Globe Content**
+
+Link_1:-) (Introduction to Area Networks)
+ 
+First, review the article link below. The author of this article provides  good basic definitions for commonly used network terms:  LAN, WAN, MAN, PAN and more.  The article also provides links you can follow for extended learning.
+
+https://www.lifewire.com/lans-wans-and-other-area-networks-817376
+
+Second, consider this scenario and the difficulties Help Desk services must contend with:
+When end users are using Internet services such as Virtual Private Network connections, or Software as a Service, on their portable tablets, laptops and phone devices, it's very likely a device is participating in multiple area network models at the same time. For example connecting to a VPN or company portal while using a local network or interface via WiFi or Bluetooth.
+
+Question:  How can help desk successfully troubleshoot end user problems with connectivity when the end user device is participating in multiple networks at the same time?
+
+
+Link_2:-) (Hubs vs. Switches)
+
+https://www.diffen.com/difference/Hub_vs_Switch 
+
+As we interconnect we use many different network devices to manage the connection. Some devices are passive and merely extend our network. Other devices analyze frame and packet content before forwarding the data. While we do have traditional descriptions for devices like Hubs and Switches and Routers, the actual functions a device may perform often extend beyond those basic definitions. There are Hubs that can perform some of the functions that a Switch can, and there are Switches than can perform some of the functions that a Router can. As you read this article and evaluate the comparison specs for Hubs and Switches, try and read between the lines and conceive how you might want to combine features from both sides of the comparison chart.
+
+Link_3:-) ()
+
+http://computer.howstuffworks.com/router.htm
+
+The article introduces many core Inter-networking concepts including routing standards, route management of packets and protocols, networking tools, network addressing and even network threats and vulnerabilities. 
+
+
+Be sure you read through the article all the way to page 13, where you will find a large collection of links for related network content and you can use.  As you read the pages, envision a network path that a packet would take as it moves from your home computer all the way through your  Internet Service Provider's connections and ultimately to the Internet backbone. 
+
+
