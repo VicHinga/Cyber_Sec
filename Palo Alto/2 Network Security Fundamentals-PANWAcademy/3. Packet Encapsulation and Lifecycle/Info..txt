@@ -1,0 +1,57 @@
+
+
+OBJECTIVES -  At the conclusion of this course module, students should be able to:
+
+• Recognize packet encapsulation and the lifecycle process. 
+• Identify protocols and define the OSI and TCP model layers. 
+• Describe the five steps of the data encapsulation process.
+• Review the transport layer protocols, ports, and packet filtering procedures.
+• Create and analyze packet captures using Wireshark.
+
+  			** OSI and TCPIP models **
+
+https://www.youtube.com/watch?v=yON7TcYUyuY
+
+
+			** TCP/IP Network Access Layer Article **
+
+https://www.informit.com/articles/article.aspx?p=101740
+
+
+			** TCP/IP Transport Layer ProtocolsPage **
+
+tcpipguide.com/free/t_TCPandUDPOverviewandRoleInTCPIP.htm
+
+
+			** TCP/IP Transport Layer Protocols ** (It may not be secure)
+
+http://www.tcpipguide.com/free/t_TCPandUDPOverviewandRoleInTCPIP.htm
+
+
+			** TCP/IP Application Layer Protocols Article **
+
+https://www.informit.com/articles/article.aspx?p=169578
+
+
+
+			* PaloAlto Youtube. *
+
+Interactive: Packet Encapsulation
+Hubs, Switches and Routers
+Network Protocols and More
+Video: Network ModelsPage
+Video: OSI Model AnimationPage
+Video: NetFlow Traffic AnalyzerPage
+Video: Protocol and Packet Filtering Part 1Page
+Video: Protocol and Packet Filtering Part 2Page
+
+	*Router and Routing Protocols*
+
+Video: Layer 3 Routing Part 2Page
+Video: Layer 3 Routing Part 3Page
+Video: Layer 3 Routing Part 4Page
+
+
+
+
+
