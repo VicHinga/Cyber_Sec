@@ -1,0 +1,149 @@
+
+			** OSI MODEL **
+
+	(7) Application Layer
+
+The seventh layer of the OSI model. This layer's protocols enable software programs to negotiate formatting, procedural, security, synchronization, and other requirements with the network.
+
+	(6) Presentation Layer
+
+The sixth layer of the OSI model. Protocols in this layer translate between the application and the network. Here, data are formatted in a schema that the network can understand, with the format varying according to the type of network used. This layer also manages data encryption and decryption.
+
+	(5) Session Layer
+
+The fifth layer in the OSI model. This layer establishes and maintains communication between two nodes on the network. It can be considered the "traffic cop" for network communications.
+
+	(4) Transport Layer
+
+The fourth layer of the OSI model. In this layer protocols ensure that data are transferred from point A to point B reliably and without errors. this layer services include flow control, acknowledgment, error correction, segmentation, reassembly, and sequencing.
+
+	(3) Network Layer
+
+The third layer in the OSI model. Protocols in this layer translate network addresses into their physical counterparts and decide how to route data from the sender to the receiver.
+
+	(2) Data Link Layer
+
+The second layer in the OSI model. This layer bridges the networking media with the Network layer. Its primary function is to divide the data it receives from the Network layer into frames that can then be transmitted by the Physical layer.
+
+	(1) Physical Layer
+
+The lowest, or first, layer of the OSI model. Protocols in this layer generate and detect signals so as to transmit and receive data over a network medium. These protocols also set the data transmission rate and monitor data error rates, but do not provide error correction.
+
+
+
+
+
+	* Questions *
+
+Which OSI layer handles flow control, data segmentation, and reliability?
+Select one: (b)
+
+a. Application
+
+b. Transport
+
+c. Data Link
+
+d. Physical
+
+
+Which term refers to stripping header information as a PDU is passed from one layer to a higher layer?
+Select one: (d)
+
+a. Encapsulation
+
+b. Packetization
+
+c. PDU stripping
+
+d. Deencapsulation
+
+
+At which Data Link sublayer does the physical address reside?
+Select one: (a)
+
+a. Media Access Control (MAC)
+
+b. Logical Link Control (LLC)
+
+c. Network Access Control (NAC)
+
+d. Data Access Control (DAC)
+
+
+Which layer of the OSI model does Project 802 divide into two sublayers?
+Select one: (d)
+
+a. Network
+
+b. Physical
+
+c. Session
+
+d. Data Link
+
+
+At which OSI layer does the PDU contain sequence and acknowledgement numbers?
+Select one: (c)
+
+a. 6
+
+b. Application
+
+c. 4
+
+d. Data Link
+
+
+The OSI Application Layer manages encryption and formatting.
+Select one: (b) -> That's the Presentation Layer
+
+a. True
+b. False
+
+
+Which OSI layer is responsible for setting up, maintaining, and ending ongoing information exchanges across a network?
+Select one: (c)
+
+a. 3
+
+b. 6
+
+c. 5
+
+d. 2
+
+
+Which OSI layer determines the route a packet takes from sender to receiver?
+Select one: (b)
+
+a. 4
+
+b. 3
+
+c. 1
+
+d. 7
+
+
+HTTPS interacts with which OSI layer?
+
+Select one: (d)
+
+a. Data Link
+
+b. Session
+
+c. Physical
+
+d. Application
+
+
+Which of the following problems can occur at the Physical layer of the OSI Model?
+Select one: (b)
+
+a. NIC driver problems
+
+b. Signal errors caused by noise
+
+c. Incorrect IP addresses
