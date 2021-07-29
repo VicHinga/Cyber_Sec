@@ -1,0 +1,31 @@
+
+For Nuber 3 Research on: Certificates and PKI
+
+
+* Understanding Cryptography *
+
+https://searchsecurity.techtarget.com/Understanding-encryption-and-cryptography-basics 
+
+https://searchsecurity.techtarget.com/answer/What-are-the-differences-between-symmetric-and-asymmetric-encryption-algorithms
+
+http://quickcrypto.com/free-steganography-software.html
+
+
+* AES *
+
+https://searchsecurity.techtarget.com/definition/Advanced-Encryption-Standard 
+
+https://www.techopedia.com/definition/1763/advanced-encryption-standard-aes 
+
+https://en.wikipedia.org/wiki/Advanced_Encryption_Standard 
+
+
+* Hash Algorithms *
+
+https://www.thesslstore.com/blog/difference-sha-1-sha-2-sha-256-hash-algorithms/
+
+Discovery for fun: Visit the following sites and input some text entries and view the resulting hash outputs.  Be sure you try several different hash algorithms and compare their outputs for the same text entry.
+
+http://www.sha1-online.com/ 
+
+https://passwordsgenerator.net/sha1-hash-generator/ 
