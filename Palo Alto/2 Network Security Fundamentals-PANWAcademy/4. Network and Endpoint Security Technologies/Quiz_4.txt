@@ -1,0 +1,128 @@
+
+
+
+
+
+
+Which of the following is used to describe the information used in conjunction with an algorithm to create ciphertext from plaintext?
+
+Select one: (a)
+
+a. Key
+
+b. Cleartext
+
+c. Cipher
+
+d. Code
+
+
+
+Characteristics of application firewalls include all of the following except:
+
+Select one: (b)
+
+a. Proxies traffic rather than permitting direct communication between hosts
+
+b. Is extremely fast and has no impact on network performance
+
+c. Masks the internal network from untrusted networks
+
+d. Can be used to implement strong user authentication
+
+
+
+Which of the following are typical mobile device management software capabilities? Select all that apply.
+
+Select one or more: (a,b,d)
+
+a. Policy Enforcement
+
+b. Data Loss Prevention
+
+c. Personal Firewalls
+
+d. Malware Prevention
+
+
+Characteristics of unified threat management (UTM) include all of the following except:
+
+Select one: (c)
+
+a. Combines security functions such as firewalls, intrusion detection systems (IDS), anti-malware, and data loss prevention (DLP) in a single appliance.
+
+b. UTM can be a convenient solution for small networks.
+
+c. UTM fully integrates all of the security functions installed on the device.
+
+d. Enabling all of the security functions in a UTM device can have a significant performance impact.
+
+
+Which VPN technology is currently considered the preferred method for securely connecting a remote endpoint device back to an enterprise network?
+
+Select one: (c)
+
+a. Internet Protocol Security (IPSEC)
+
+b. Secure Socket tunneling protocol (SSTP)
+
+c. Secure Socket Layer (SSL)
+
+d. Point-to-point Tunneling protocol (PPTP)
+
+
+
+True or False. Packet-Filtering Firewalls operate at Layer 3 (network layer) of the Open Systems Interconnection (OSI) reference model.
+
+Select one: (True)
+True
+False
+
+
+Which of the following terms describes the process of making and using codes to secure the transmission of information?
+
+Select one: (a)
+
+a. Cryptography
+
+b. Cryptanalysis
+
+c. Steganography
+
+d. Algorithm
+
+
+
+Which algorithm was the first public-key encryption algorithm developed (in 1977) and published for commercial use?
+
+Select one: (c)
+
+a. 3DES
+
+b. Diffie-Hellman
+
+c. RSA
+
+d. Blowfish
+
+
+
+Which of the following is considered to be the strongest symmetric encryption cryptosystem?
+
+Select one: (b)
+
+a. Triple DES (3DES)
+
+b. Advanced Encryption Standard (AES)
+
+c. RSA Algorithm
+
+d. Data Encryption Standard (DES)
+
+
+
+True or False: PKI systems are based on public-key cryptosystems and include digital certificates and certificate authorities
+
+Select one: (True)
+True
+False
