@@ -1,0 +1,12 @@
+
+
+	* Network Performance Monitoring *
+https://searchnetworking.techtarget.com/definition/network-performance-monitoring
+
+	*  General Linux File Systems*
+https://tldp.org/LDP/intro-linux/html/sect_03_01.html
+
+
+
+Identify the broadcast address from the following. (Explain what setts it appart)
+
