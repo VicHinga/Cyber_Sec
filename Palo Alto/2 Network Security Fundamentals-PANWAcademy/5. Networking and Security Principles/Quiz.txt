@@ -1,0 +1,104 @@
+
+
+
+
+Which Linux command gives you extensive help on how to use a command?
+Select one: (d)
+
+a. help
+
+b. more
+
+c. guide
+
+d. man
+
+
+Content-ID is an Intrusion Prevention feature that protects networks from all types of vulnerability exploits, buffer overflows, DoS attacks, and port scans that lead to the compromise of confidential and sensitive enterprise information.
+
+Select one: (a)
+a. True 
+b. False
+
+
+A directory service is a database that contains information about users, resources, and services in a network.
+
+Select one: (a)
+a. True 
+b. False
+
+
+Which subscription service complements App-ID by enabling you to configure the next-generation firewall to identify and control access to websites and to protect your organization from websites hosting malware and phishing pages.
+
+Select one: (d)
+
+a. Wildfire
+
+b. DNS Security
+
+c. Threat Prevention
+
+d. URL Filtering
+
+
+
+Which task is typically not included in server and system administration duties?
+
+Select one: (b)
+
+a. Installing and maintaining server software
+
+b. Maintaining and optimizing network devices
+
+c. Account provisioning and de-provisioning
+
+d. Managing account permissions
+
+
+
+On the NGFW, which type of User-ID technique can be configured to probe Microsoft Windows servers for active network sessions of a user?
+
+Select one: (c)
+
+a. Connection Probing
+
+b. Server Probing
+
+c. Client Probing
+
+d. Internet Probing
+
+
+
+The single pass architecture of the NGFW integrates multiple threat prevention disciplines (IPS, anti-malware, URL filtering, etc.) into a single stream-based engine with a uniform signature format.
+
+Select one: (a)
+a. True 
+b. False
+
+
+Which application identification technique determines whether the initially detected application protocol is the "real one" or if it is being used as a tunnel to hide the actual application (for example, Tor might run inside HTTPS).
+
+Select one: (b)
+
+a. Application signatures
+
+b. Application protocol decoding
+
+c. Heuristics
+
+d. Application protocol detection and decryption
+
+
+
+Which Content-ID filtering capability controls the transfer of sensitive data patterns such as credit card and social security numbers in application content and attachments?
+
+Select one:(b)
+
+a. File filtering by size
+
+b. Data filtering
+
+c. File blocking by type
+
+d. File transfer function control
