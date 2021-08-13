@@ -1,0 +1,116 @@
+
+
+
+** Module 2 **
+
+
+	Question 1
+
+Which SOC Infrastructure tool is used as a central repository to ingest logs from all corporate-owned systems. SIEMs collect and process audit trails, activity logs, security alarms, telemetry, metadata, and other historical or observational data from a variety of different applications, systems, and networks in an enterprise?
+
+Select one:
+
+a. Analysis
+
+b. Orchestration
+
+c. SIEM
+
+d. Engineering
+
+The correct answer is: SIEM
+
+	Question 2
+
+Security Operations infrastructure includes a security information and event management (SIEM) platform, analysis tools, and SOC engineering.
+
+
+Select one:
+True 
+False
+
+The correct answer is 'True'.
+	
+	Question 3
+
+Which SOC function allows for accelerated incident response through the execution of standardized and automated playbooks that work upon inputs from security technology and other data flows?
+
+Select one:
+
+a. SIEM
+
+b. EDR
+
+c. SOAR
+
+d. DLP
+
+The correct answer is: SOAR
+
+	Question 4
+
+Which SOC feature helps ensure consistency through machine-driven responses to security issues?
+
+Select one:
+
+a. Threat Intelligence
+
+b. Automation
+
+c. EDR
+
+d. DLP
+
+The correct answer is: Automation
+
+	Question 5
+
+Which SOC tool allows an organization to define incident analysis and response procedures in a digital workflow format.
+
+Select one:
+
+a. EDR
+
+b. SOAR
+
+c. DLP
+
+d. SIEM
+
+The correct answer is: SOAR
+
+	Question 6
+
+Which SOC team is responsible for the implementation and ongoing maintenance of the SecOps team’s tools, including the SIEM and analysis tools?
+
+Select one:
+
+a. Security
+
+b. Operations
+
+c. Engineering
+
+d. Development
+
+The correct answer is: Engineering
+
+	Question 7
+
+SecOps engineering tools are often based on machine learning, deep learning, and artificial intelligence— that provide either stand-alone, embedded, or add-on functionality to detect evidence of a security compromise.
+
+Select one:
+True
+False 
+
+The correct answer is 'False'.
+
+	Question 8
+
+SOC playbooks coordinate across technologies, security teams, and external users for centralized data visibility and action.
+
+Select one:
+True
+False 
+
+The correct answer is 'True'.
