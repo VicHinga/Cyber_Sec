@@ -1,0 +1,86 @@
+
+
+
+** Module 3 **
+
+
+	Question 1
+
+Before a file runs, the Cortex XDR agent queries WildFire with the hash of any Windows, macOS, or Linux executable file, as well as any dynamic link library (DLL) or Office macro, to assess its standing within the global threat community. WildFire returns a near-instantaneous verdict on whether a file is malicious or benign.
+
+Select one:
+True 
+False
+
+The correct answer is 'True'.
+
+
+	Question 2
+
+In addition to third-party feeds, Cortex XDR uses the intelligence obtained from tens of thousands of subscribers to the Palo Alto Networks WildFire malware prevention service to continuously aggregate threat data and maintain the collective immunity of all users across endpoints, networks, and cloud applications.
+
+Select one:
+True 
+False
+
+The correct answer is 'True'.
+
+
+	Question 3
+
+
+
+Which Cortex XDR WIldfire analysis technique detonates previously unknown submissions in a custom- built, evasion-resistant virtual environment to determine real-world effects and behavior?
+
+Select one:
+
+a. Virtual
+
+b. Bare-Metal
+
+c. Dynamic
+
+d. Static 
+
+
+	Question 4
+
+Which remediation endpoint action disables all network access on compromised endpoints except for traffic to the Cortex XDR management console, preventing these endpoints from communicating with and potentially infecting other endpoints?
+
+Select one:
+
+a. Block Executions
+
+b. Terminate Processes
+
+c. Quarantine Files
+
+d. Isolate Endpoints
+
+
+
+	Question 5
+
+The Cortex XDR agent uses multiple methods – such as local analysis, WildFire inspection and analysis, Gatekeeper enhancements, trusted publisher identification, and administrator override policies – to block malware on macOS systems.
+
+
+Select one:
+True 
+False
+
+
+	Question 6
+
+Which Cortex XDR component is designed to minimize the operational challenges associated with protecting your endpoints?
+
+Select one:
+
+a. Endpoint Agent
+
+b. Management Console
+
+c. Malware Prevention
+
+d. Data Lake
+
+The correct answer is: Management Console
