@@ -1,0 +1,89 @@
+
+
+
+
+
+
+
+Which three options are threat intelligence sources for AutoFocus?
+
+A. WildFire
+
+B. URL Filtering with PAN-DB Service
+
+C. Unit 42 Threat Intelligence and Research Team
+
+D. Third-Party Intrusion Prevention Systems
+
+Select one:
+
+a. B,C,D
+
+b. A,C,D
+
+c. A,B,D
+
+d. A,B,C
+Feedback
+Your answer is correct.
+The correct answer is: A,B,C
+Question 2
+Correct
+2.00 points out of 2.00
+Not flaggedFlag question
+Question text
+AutoFocus is an optional module that can be added to Next Generation Firewalls?
+
+Select one:
+True
+False 
+Feedback
+The correct answer is 'False'.
+Question 3
+Correct
+1.00 points out of 1.00
+Not flaggedFlag question
+Question text
+Select the open-source application that streamlines the aggregation, enforcement, and sharing of threat intelligence.
+
+Select one:
+
+a. MineMeld
+
+b. WildFire
+
+c. AutoFocus
+
+d. NGFW
+Feedback
+Your answer is correct.
+The correct answer is: MineMeld
+Question 4
+Correct
+1.00 points out of 1.00
+Not flaggedFlag question
+Question text
+AutoFocus allows you to build sophisticated multilayer searches at the host and network-based artifact levels, and target your search within industry, time period, and other filters. These searches allow you to make previously unknown connections between attacks and plan your incident response actions accordingly.
+
+Select one:
+True 
+False
+The correct answer is 'True'.
+
+	Question 5
+
+AutoFocus makes over a billion samples and sessions, including billions of artifacts, immediately actionable for security analysis and response efforts.
+
+Select one:
+True 
+False
+The correct answer is 'True'.
+
+	Question 6
+
+MineMeld allows you to aggregate threat intelligence across public, private, and commercial intelligence sources, including between government and commercial organizations.
+
+Select one:
+True 
+False
+The correct answer is 'True'.
