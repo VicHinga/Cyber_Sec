@@ -1,0 +1,735 @@
+
+** Final Exam **
+
+
+Question 1
+
+Question text
+The Security Operating Platform proactively blocks known threats, which provides baseline defenses against known exploits, malware, malicious URLs, and C2 activity.
+
+Select one:
+True 
+False
+
+The correct answer is 'True'.
+
+Question 2
+
+Question text
+Which Palo Alto Networks NGFW logs display entries for the security rules that help prevent sensitive information such as credit card numbers from leaving the area that the firewall protects?
+
+Select one:
+
+a. Data Filtering logs.
+
+b. URL Filtering logs.
+
+c. Threat logs.
+
+d. Correlation logs.
+Feedback
+Your answer is correct.
+The correct answer is: Data Filtering logs.
+
+Question 3
+
+Question text
+Which Wildfire verdict indicates no security risk but might display obtrusive behavior (for example, adware, spyware, and browser helper objects)?
+
+Select one:
+
+a. Malware
+
+b. Grayware
+
+c. Phishing
+
+d. Benign
+
+Your answer is correct.
+The correct answer is: Grayware
+
+
+Question 4
+
+Question text
+Match the appropriate WildFire independent detection techniques for high-fidelity and evasion-resistant discovery that goes beyond legacy approaches.
+
+Sandboxing detonates previously unknown submissions in a custom-built, evasion-resistant virtual environment to determine real-world effects and behavior.
+
+Answer 1
+Dynamic analysis
+ 
+Powerful form of analysis, based in the cloud, that detects known threats by analyzing the characteristics of samples before execution.
+
+Answer 2
+Static analysis
+ 
+Uses a hardware-based analysis environment specifically designed for advanced threats that exhibit highly evasive characteristics and can detect virtual analysis.
+
+Answer 3
+Bare-metal analysis
+ 
+
+Your answer is correct.
+The correct answer is: Sandboxing detonates previously unknown submissions in a custom-built, evasion-resistant virtual environment to determine real-world effects and behavior. → Dynamic analysis, Powerful form of analysis, based in the cloud, that detects known threats by analyzing the characteristics of samples before execution. → Static analysis, Uses a hardware-based analysis environment specifically designed for advanced threats that exhibit highly evasive characteristics and can detect virtual analysis. → Bare-metal analysis
+
+
+Question 5
+
+Question text
+Content-ID is an Intrusion Prevention feature that protects networks from all types of vulnerability exploits, buffer overflows, DoS attacks, and port scans that lead to the compromise of confidential and sensitive enterprise information.
+
+Select one:
+True 
+False
+
+The correct answer is 'True'
+
+
+Question 6
+
+Question text
+The key to Traps is blocking core exploit and malware techniques, not the individual attacks.
+
+Select one:
+True 
+False
+Feedback
+The correct answer is 'True'.
+
+
+Question 7
+
+Question text
+The term “cloud native” refers to an approach to building and running applications that takes full advantage of a cloud computing delivery model instead of an on-premises data center.
+
+Select one:
+True 
+False
+
+The correct answer is 'True'
+
+
+Question 8
+
+Question text
+WildFIre performs deep packet inspection of malicious outbound communications to disrupt C&C activity.
+
+Select one:
+True 
+False
+The correct answer is 'True'.
+
+
+Question 9
+
+Question text
+Select the Prisma Cloud capability that decouples workload identity from IP addresses, leverages tags and metadata to assign a logical identity to applications and workloads, and then uses it to enforce ID-based micro-segmentation and security policies that adapt to your dynamic environments.
+
+Select one:
+
+a. UEBA
+
+b. Machine identity
+
+c. Identity and access management (IAM) security
+
+d. Access management
+Feedback
+Your answer is correct.
+The correct answer is: Machine identity
+
+
+Question 10
+
+Question text
+The single pass architecture of the NGFW integrates multiple threat prevention disciplines (IPS, anti-malware, URL filtering, etc.) into a single stream-based engine with a uniform signature format.
+
+Select one:
+True 
+False
+
+The correct answer is 'True'.
+
+Question 11
+
+Question text
+Which type of Wildfire analysis method supports a custom-built, evasion-resistant virtual environment in which previously unknown submissions are executed within a virtualized test environment to determine real world effects and behavior.
+
+Select one:
+
+a. Static
+
+b. Dynamic 
+
+c. Machine
+
+d. Bare Metal
+
+Your answer is correct.
+The correct answer is: Dynamic 
+
+
+Question 12
+
+Question text
+Identity and access management (IAM) uniquely identifies users and groups in a directory service (such as Active Directory), controls what resources those users and groups can access, and what functions they can perform on a resource (such as read, write, delete, and execute).
+
+Select one:
+True 
+False
+Feedback
+The correct answer is 'True'.
+
+
+Question 13
+Correct
+1.00 points out of 1.00
+Not flaggedFlag question
+Question text
+Select the type of cybersecurity solution or feature that discovers threats by identifying activity that deviates from a baseline.
+
+Select one:
+
+a. Integrated development environment (IDE)
+
+b. Dynamic User List (DUL)
+
+c. User and entity behavior analytics (UEBA) 
+
+d. Software configuration management (SCM)
+Feedback
+Your answer is correct.
+The correct answer is: User and entity behavior analytics (UEBA) 
+
+
+Question 14
+
+Question text
+Which Content-ID filtering capability controls the transfer of sensitive data patterns such as credit card and social security numbers in application content and attachments?
+
+Select one:
+
+a. File filtering by size
+
+b. File blocking by type
+
+c. File transfer function control
+
+d. Data filtering
+
+Your answer is correct.
+The correct answer is: Data filtering
+
+
+Question 15
+
+Question text
+Which three options are threat intelligence sources for AutoFocus?
+
+A. WildFire
+
+B. URL Filtering with PAN-DB Service
+
+C. Unit 42 Threat Intelligence and Research Team
+
+D. Third-Party Intrusion Prevention Systems
+
+Select one:
+
+a. A,B,C
+
+b. A,B,D
+
+c. B,C,D
+
+d. A,C,D
+
+Your answer is correct.
+The correct answer is: A,B,C
+
+Question 16
+
+Question text
+The Traps agent injects itself into each process as it is started and automatically blocks advanced attacks that would otherwise evade detection. 
+
+Select one:
+True 
+False
+Feedback
+The correct answer is 'True'.
+
+
+Question 17
+Correct
+1.00 points out of 1.00
+Not flaggedFlag question
+Question text
+WIldFire prevents known and unknown malware threats.
+
+Select one:
+True
+False 
+The correct answer is 'False'.
+
+
+Question 18
+
+Question text
+Before a file runs, the Cortex XDR agent queries WildFire with the hash of any Windows, macOS, or Linux executable file, as well as any dynamic link library (DLL) or Office macro, to assess its standing within the global threat community. WildFire returns a near-instantaneous verdict on whether a file is malicious or benign.
+
+Select one:
+True 
+False
+Feedback
+The correct answer is 'True'.
+
+
+Question 19
+
+Question text
+Which PA series firewall brings next-generation firewall capabilities to distributed enterprise branch offices, retail locations, and midsize businesses in a small form factor.
+
+Select one:
+
+a. 220
+
+b. 220R
+
+c. 800
+
+d. 3200
+
+Your answer is correct.
+The correct answer is: 220
+
+
+Question 20
+
+Question text
+Representational state transfer (REST) is an Extensible Markup Language (XML) format for conveying data about cybersecurity threats in a standardized format
+
+Select one:
+True 
+False
+
+Structured Threat Information Expression (STIX)
+
+The correct answer is 'False'.
+
+Question 21
+
+Question text
+Which Palo Alto Networks NGFW report can be created and scheduled to show exactly the information you want to see by filtering on conditions and columns to include. You can also include query builders for more specific details in report data?
+
+Select one:
+
+a. PDF summary reports
+
+b. Botnet reports
+
+c. Predefined reports
+
+d. Custom reports
+
+Your answer is correct.
+The correct answer is: Custom reports
+
+
+Question 22
+
+Question text
+On the NGFW, which type of User-ID technique can be configured to probe Microsoft Windows servers for active network sessions of a user?
+
+Select one:
+
+a. Connection Probing
+
+b. Internet Probing
+
+c. Client Probing
+
+d. Server Probing
+
+Your answer is incorrect.
+The correct answer is: Client Probing
+
+
+Question 23
+
+Question text
+A Zero Trust network security model is based on which security principle?
+
+Select one:
+
+a. non-repudiation
+
+b. Least privilege
+
+c. negative control
+
+d. Due diligence
+
+The correct answer is: Least privilege
+
+
+Question 24
+
+Question text
+A mutex is a program object that allows multiple program threads to share the same resource, such as file access, but not simultaneously.
+
+Select one:
+True 
+False
+Feedback
+The correct answer is 'True'.
+
+
+Question 25
+
+Question text
+Which Traps capability enables organizations to identify non-malicious but otherwise undesirable software, such as adware, and prevent it from running in their environment?
+
+Select one:
+
+a. Grayware Classification
+
+b. Granular child process protection
+
+c. Execution Restrictions
+
+d. Behavior-based ransomware protection
+Feedback
+Your answer is correct.
+The correct answer is: Grayware Classification
+
+
+Question 26
+
+Question text
+IronSkillet is a set of day-one, next-generation firewall configuration templates for PAN-OS® that are based on security best practice recommendations.
+
+Select one:
+True 
+False
+
+The correct answer is 'True'.
+
+
+Question 27
+
+Question text
+Which of the following is not a benefit of implementing a Zero-Trust network?
+
+Select one:
+
+a. Higher total cost of ownership (TCO) with a consolidated and fully integrated security operating platform. 
+
+b. Clearly improved effectiveness in mitigating data loss with visibility and safe enablement of applications.
+
+c. Greater efficiency for achieving and maintaining compliance with security and privacy mandates.
+
+d. Improved ability to securely enable transformative IT initiatives.
+
+The correct answer is: Higher total cost of ownership (TCO) with a consolidated and fully integrated security operating platform. 
+
+
+Question 28
+
+Question text
+AutoFocus is an optional module that can be added to Next Generation Firewalls?
+
+Select one:
+True 
+False
+
+False. Autofocus is a subscription-based threat intelligence cloud that fully integrates with the Security Operating Platform, but does not require any configuration changes to NGFWs or Traps Advanced Endpoint Protection.
+
+The correct answer is 'False'.
+
+
+Question 29
+
+Question text
+Select the scalable, cloud-based log repository that stores context-rich logs generated by Palo Alto Networks security products, including next-generation firewalls, Prisma Access, and Cortex XDR agents.
+
+Select one:
+
+a. Cortex Data Lake
+
+b. Cortex XDR management console
+
+c. Cortex XDR endpoint agent. 
+
+d. WildFire malware prevention service
+
+The correct answer is: Cortex Data Lake
+
+
+Question 30
+
+Question text
+To safely enable SaaS usage in your organization, start by clearly defining the SaaS applications that should be used and which behaviors within those applications are allowed. Which category of applications are not allowed, then controlling their usage with granular policies
+
+Select one:
+
+a. Tolerated 
+
+b. Sanctioned 
+
+c. Unsanctioned
+
+d. Permitted
+
+Your answer is incorrect.
+The correct answer is: Unsanctioned
+
+Question 31
+
+Question text
+Prisma SaaS is an inline service, so it doesn’t impact latency, bandwidth, or end-user experience.
+
+Select one:
+True 
+False
+Feedback
+Prisma SaaS is a completely cloud-based, end-to-end security solution that provides visibility and control within SaaS applications, without the need for any proxies, agents, software, additional hardware, or network changes.
+
+The correct answer is 'False'.
+
+Question 32
+
+Question text
+AutoFocus allows you to build sophisticated multilayer searches at the host and network-based artifact levels, and target your search within industry, time period, and other filters. These searches allow you to make previously unknown connections between attacks and plan your incident response actions accordingly.
+
+Select one:
+True 
+False
+Feedback
+The correct answer is 'True'.
+
+
+Question 33
+
+Question text
+WIldFire operates on which concept?
+
+Select one:
+
+a. IPS and SIEM tool correlation
+
+b. virtualized sandbox
+
+c. file-based scanning against a signature database
+
+d. cloud-based reputation service
+
+Your answer is correct.
+The correct answer is: virtualized sandbox
+
+
+Question 34
+
+Question text
+Which Prisma Access SASE capability can be used to block inappropriate content (such as pornography and gambling) or websites that businesses simply don’t want users accessing while at work, such as streaming services like Netflix.
+
+Select one:
+
+a. Secure Web Gateway (SWG)
+
+b. Virtual Private Network (VPN)
+
+c. Zero Trust Network Access (ZTNA)
+
+d. Firewall as a Service (FWaaS)
+
+The correct answer is: Secure Web Gateway (SWG)
+
+
+Question 35
+
+Question text
+The primary issue with a perimeter-based network security strategy in which countermeasures are deployed at a handful of well-defined ingress and egress points to the network is that it relies on the assumption that everything on the internal network can be trusted.
+
+Select one:
+True 
+False
+
+The correct answer is 'True'.
+
+
+Question 36
+
+Question text
+An Android Package Kit (APK) file is an app created for the Android mobile operating system.
+
+Select one:
+True 
+False
+
+The correct answer is 'True'.
+
+
+Question 37
+
+Question text
+Which key method does Traps not use to prevent malicious executables on the endpoint?
+
+Select one:
+
+a. Policy-based restrictions
+
+b. Malware techniques mitigation
+
+c. Wildfire inspection and analysis
+
+d. Access control inspection
+
+The correct answer is: Access control inspection
+
+
+Question 38
+
+Question text
+Traps leverages the intelligence obtained from tens of thousands of subscribers to the WildFire cloud-based threat analysis service to continuously aggregate threat data and maintain the collective immunity of all users across endpoints, networks, and cloud applications.
+
+Select one:
+True 
+False
+Feedback
+The correct answer is 'True'.
+
+
+Question 39
+
+Question text
+Sanctioned SaaS applications fulfill a legitimate business need, but certain usage restrictions may be necessary to reduce risk.
+
+Select one:
+True 
+False
+Feedback
+Policies regarding application data sharing, PII information and others may need to be enforced in order to properly secure the application and reduce risk.
+
+The correct answer is 'True'.
+
+Question 40
+
+Question text
+The principle of least privilege in network security requires that only the permission or access rights necessary to perform an authorized task is denied.
+
+Select one:
+True
+False 
+Feedback
+The correct answer is 'False'.
+
+Question 41
+
+Question text
+Which acronym represents a set of routines, protocols, and tools for building software applications and integrations?
+
+Select one:
+
+a. PCAP
+
+b. API
+
+c. IoT
+
+d. IoC
+
+Your answer is incorrect.
+The correct answer is: API
+
+Question 42
+
+Question text
+Which application identification technique determines whether the initially detected application protocol is the "real one" or if it is being used as a tunnel to hide the actual application (for example, Tor might run inside HTTPS).
+
+Select one:
+
+a. Application signatures
+
+b. Application protocol decoding
+
+c. Heuristics
+
+d. Application protocol detection and decryption
+
+The correct answer is: Application protocol decoding
+
+
+Question 43
+
+Question text
+What are the results of techniques used against a system that are designed to gain access through vulnerabilities in the code of an operating system or application?
+
+Select one:
+
+a. Ransomware
+
+b. Exploits
+
+c. Adware
+
+d. Malware
+
+Your answer is correct.
+The correct answer is: Exploits
+
+
+Question 44
+
+Question text
+Which security-as-a-service layer in Prisma Access SASE capability provides visibility into SaaS application usage, understands where their sensitive data resides, enforces company policies for user access, and protects their data from hackers.
+
+Select one:
+
+a. Secure Web Gateway (SWG)
+
+b. Data Loss Prevention (DLP)
+
+c. Cloud Access Security Broker (CASB)
+
+d. Threat Prevention
+
+The correct answer is: Cloud Access Security Broker (CASB)
+
+
+Question 45
+
+Question text
+Which capability of a Zero-Trust segmentation platform uses a combination of anti-malware, intrusion prevention, and cyberthreat prevention technologies to provide comprehensive protection against both known and unknown threats, including threats on mobile devices?
+
+Select one:
+
+a. Least privilege access control
+
+b. Secure access
+
+c. Cyberthreat protection
+
+d. Inspection of all traffic
+
+Your answer is incorrect.
+The correct answer is: Cyberthreat protection
+
+
+Question 46
+
+Question text
+Which Security Operating Platform capability supports a coordinated security platform that accounts for the full scope of an attack, across the various security controls that compose the security posture. This allows organizations to quickly identify and block known threats.
+
+Select one:
+
+a. Detect and prevent new, unknown threats with automation.
+
+b. Full Visibility.
+
+c. Prevent all known threats, fast.
+
+d. Reduce the attack surface.
+
+The correct answer is: Prevent all known threats, fast.
