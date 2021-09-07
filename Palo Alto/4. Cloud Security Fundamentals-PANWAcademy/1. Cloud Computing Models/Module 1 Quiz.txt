@@ -1,0 +1,105 @@
+
+	Question 1
+
+Platform as a Service - PaaS – is best described as:
+
+Select one:
+
+a.
+An underlying network infrastructure that virtualizes physical computing resources, data partitioning, scaling, security, backup.
+
+b.
+A licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted.
+
+c. An online space where customers can develop, run, and manage applications without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app.
+Feedback
+
+
+The correct answer is: An online space where customers can develop, run, and manage applications without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app.
+
+
+
+	Question 2
+
+Which cloud deployment model is bound by standardized or proprietary technology that enables data and application portability (for example, fail over to a secondary data center for disaster recovery or content delivery networks across multiple clouds)?
+
+Select one:
+
+a. Hybrid
+
+b. Private
+
+c. Public
+
+d. Community
+
+The correct answer is: Hybrid
+
+
+
+	Question 3
+
+True or False. The benefit of moving toward a cloud computing model is that it improves operational efficiencies and lowers capital expenditures.
+
+
+Select one:
+True 
+False
+
+The correct answer is 'True'.
+
+
+
+	Question 4
+
+Which cloud computing service model is not defined by NIST?
+
+Select one:
+
+a. Infrastructure as a Service (IaaS)
+
+b. Platform as a Service (PaaS)
+
+c. Software as a Service (SaaS)
+
+d. Desktop as a Service (DaaS)
+
+The correct answer is: Desktop as a Service (DaaS)
+
+
+
+	Question 5
+
+Which cloud computing deployment model is used exclusively by a single organization?
+
+Select one:
+
+a. Community
+
+b. Public
+
+c. Private
+
+d. Hybrid
+
+The correct answer is: Private
+
+
+
+	Question 6
+
+The cloud computing service model in which a provider’s applications run on a cloud infrastructure and the consumer does not manage or control the underlying infrastructure is known as:
+
+Select one:
+
+Platform as a Service (PAAS)
+
+Infrastructure as a Service (IAAS)
+
+Software as a Service (SAAS)
+
+Correct. The provider is delivering and supporting the application, or software, for the consumer.
+
+Identity as a Service (IDAAS)
+
+The correct answer is: Software as a Service (SAAS)
