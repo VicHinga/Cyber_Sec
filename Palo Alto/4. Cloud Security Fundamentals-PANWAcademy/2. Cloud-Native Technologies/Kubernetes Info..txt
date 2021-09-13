@@ -1,0 +1,25 @@
+
+
+
+
+
+Discovery: Kubernetes - Documentation and Hands-on Activities
+
+Kubernetes makes everything associated with deploying and managing your application easier. Kubernetes automates rollouts and rollbacks, monitoring the health of your services to prevent bad rollouts before things go bad. It also continuously runs health checks against your services, restarting containers that fail or have stalled, and only advertising services to clients when it has confirmed they’ve started up successfully. Additionally, Kubernetes will automatically scale your services up or down based off of utilization, ensuring you’re only running what you need, when you need it. Like containers, Kubernetes allows you to declaratively manage your cluster, allowing your setup to be version controlled and easily replicated.
+
+Here are some free resources and hands-on activities you can access to learn how Kubernetes systems work:
+
+	Kubernetes Tutorials: 
+
+https://kubernetes.io/docs/tutorials/kubernetes-basics
+
+	Hands-on Learning and play with Kubernetes:
+https://kubernetes.io/docs/tutorials/kubernetes-basics/
+
+VMWare Kubernetes free courses: 
+
+www.kube.academy
+
+	Google Kubernetes Engine Documentation:
+https://cloud.google.com/kubernetes-engine/docs
+
