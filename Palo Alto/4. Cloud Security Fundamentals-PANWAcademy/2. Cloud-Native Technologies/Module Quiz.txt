@@ -1,0 +1,102 @@
+
+
+
+
+	Question 1
+	
+
+Which consideration is not associated with secure virtualization?
+
+Select one:
+
+a. Hypervisor Vulnerabilities
+
+b. Dormant VMs
+
+c. Hypervisor Sprawl
+
+d. Intra-VM Communication
+
+The correct answer is: Hypervisor Sprawl
+
+
+
+	Question 2
+
+Which cloud native technology balances separation, excellent compatibility with existing apps, and a high degree of operational control with good density potential and easy integration into software development flows.
+
+
+Select one:
+
+a. Serverless
+
+b. Thin VMs
+
+c. Containers
+
+d. CaaS
+
+The correct answer is: Containers
+
+
+
+	Question 3
+
+In which cloud native technology do applications rely on managed services that abstract away the need to manage, patch, and secure infrastructure and virtual machines.
+
+
+Select one:
+
+a. CaaS
+
+b. Serverless
+
+c. Containers
+
+d. Thin VMs
+
+The correct answer is: Serverless
+
+
+
+	Question 4
+
+Which platform provides all three cloud native characteristics by default and, while assembled from many more generic components, are highly optimized for container workloads.
+
+
+Select one:
+
+a. On-Demand Containers
+
+b. Serverless
+
+c. Container as a Service
+
+d. Thin VMs
+
+The correct answer is: Serverless
+
+
+
+	Question 5
+
+A hypervisor allows multiple, virtual (“guest”) operating systems to run concurrently on a single physical host computer.
+
+
+Select one:
+True 
+False
+
+The correct answer is 'True'.
+
+
+
+	Question 6
+
+In the serverless model, applications rely on managed services that abstract away the need to manage, patch, and secure infrastructure and virtual machines.
+
+Select one:
+True 
+False
+
+The correct answer is 'True'.
