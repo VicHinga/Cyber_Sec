@@ -1,0 +1,30 @@
+
+
+
+
+	Discovery: Virtual Machines
+
+Virtual machines are images of computers that run within a controlled software space, commonly known as a hypervisor.  The hypervisor is a tool that hosts and allocates resources for a virtual machine, including processing, memory, storage, and also manages I/O communications for peripherals and external connectivity, such as video displays, printing and networking.  By design Virtual images are  flexible, easily replicated, rolled back or restored. 
+
+The most common implementations for Virtual Machines are via Cloud Service Providers such as Amazon AWS, Microsoft Azure, and IBM Cloud.  These services aggregate flexible numbers of VMs, known as clusters, and deliver access to the clustered VM services through numerous network channels.  Most cloud deployments are scalable, and can quickly expand to meet demand.  For example a cloud based tax computation service would expand and utilize hundreds of virtual machines simultaneously during seasonal demand, and then shrink or reduce the numbers of deployed VMs when the tax accounting deadlines have passed.  
+
+Virtual environments can also exist as application hosts and can allow an application to run within a 'sandboxed' or tightly controlled environment.  Sandboxes restrict what code selections can do, granting permissions for an application by design or demand,  without adding additional permissions that could be abused. For example,  a web browser essentially runs web pages in a sandbox.
+
+Host based virtualization programs such as Virtual PC, VirtualBox and VMware can be setup as a hypervisor and allow for virtual machines and networks to run on a desktop. These local VMs typically contain an entire operating system, with applications, and run independent of the local host and other virtual machines.  These tools are ideal for development and testing, as the VM allows you to install and configure software on the virtualized operating system and run that software as if it were running on a standard computer.  A sandboxed VM can even allow you  to install malware and analyze it. 
+
+Below are some links you can explore for desktop or local host Virtual services:
+
+	Virtual Box HOW-TOs and Tutorials:
+https://www.virtualbox.org/wiki/User_HOWTOS
+  
+	VMWorkstation Home Page
+https://www.vmware.com/products/workstation-player.html
+
+	Microsoft Virtual Machines and Hyper-V
+	Introduction to Windows Hyper-V:  
+https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/
+
+	Enabling the Hyper-V role in Windows: 
+ https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v 
+
+
