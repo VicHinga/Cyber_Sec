@@ -1,0 +1,73 @@
+
+
+
+	Question 1
+
+Question text
+The CI/CD pipeline integrates Development and Operations teams to improve productivity by automating infrastructure and workflows as well as continuously measuring application performance.
+
+Select one:
+True 
+False
+The correct answer is 'True'.
+
+
+	Question 2
+
+Question text
+Development and Operations teams meet regularly, share analytics, and co-own projects from beginning to end.
+
+Select one:
+True 
+False
+The correct answer is 'True'.
+
+
+	Question 3
+
+Question text
+Ensuring your cloud resources and SaaS applications are correctly configured and adhere to your organization’s security standards from day one is essential to prevent successful attacks.
+
+Select one:
+True 
+False
+The correct answer is 'True'.
+
+
+	Question 4
+
+Question text
+Which of the 4 Cs of cloud native security provides the trusted computing base for a Kubernetes cluster. If the cluster is built on a foundation that is inherently vulnerable or configured with poor security controls, then the other layers cannot be properly secured.
+
+Select one:
+
+a. Clusters
+
+b. Cloud
+
+c. Code
+
+d. Containers
+The correct answer is: Cloud
+
+
+	Question 5
+
+Question text
+The Cloud Native Computing Foundation (CNCF) Kubernetes project defines a container security model for Kubernetes in the context of cloud native security. This model is referred to as “the 4 C’s of Cloud Native security”.
+
+Select one:
+True 
+False
+The correct answer is 'True'.
+
+
+	Question 6
+
+Question text
+The term “cloud native” refers to an approach to building and running applications that takes full advantage of a cloud computing delivery model instead of an on-premises data center.
+
+Select one:
+True 
+False
+The correct answer is 'True'.
