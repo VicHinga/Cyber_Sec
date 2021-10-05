@@ -1,0 +1,89 @@
+
+	-- Cloud Security Fundamentals-PANWAcademy Quiz ---
+
+
+	Question 1
+
+Which of the following is not a phase of implementing security in virtualized data centers:
+
+Select one:
+
+a. Implementing a static and flat computing fabric
+
+b. Consolidating servers within trust levels
+
+c. Consolidating servers across trust levels
+
+d. Selective network security virtualization
+
+The correct answer is: Implementing a static and flat computing fabric
+
+
+
+
+	Question 2
+
+Data that moves in and out of the virtualized environment from the host network or a corresponding traditional data center is also known as:
+
+Select one:
+
+a. East-West
+
+b. North-South
+
+c. North-East
+
+d. Unknown
+
+The correct answer is: North-South
+
+
+
+
+	Question 3
+
+Intra-VM traffic is also known as:
+
+Select one:
+
+a. East-West
+
+b. North-South
+
+c. North-East
+
+d. Unknown
+
+The correct answer is: East-West
+
+
+
+
+	Question 4
+
+The first phase of implementing security in virtualized data centers consists of:
+
+Select one:
+
+a. Consolidating servers within trust levels
+
+b. Selectively virtualizing network security functions
+
+c. Consolidating servers across trust levels
+
+d. Implementing a dynamic computing fabric
+
+The correct answer is: Consolidating servers within trust levels
+
+
+
+
+	Question 5
+
+An added benefit of using virtual firewalls for east-west protection is the unprecedented traffic and threat visibility that the virtualized security device can now provide.
+
+Select one:
+True 
+False
+
+The correct answer is 'True'.
