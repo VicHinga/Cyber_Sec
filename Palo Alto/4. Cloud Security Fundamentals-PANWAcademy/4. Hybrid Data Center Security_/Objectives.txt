@@ -1,0 +1,12 @@
+
+Module 4: Hybrid Data Center Security Objectives
+
+OBJECTIVES  - At the conclusion of this course module, students will be able to:
+
+
+• Recognize traditional data center security weaknesses.
+• Investigate east-west and north-south traffic protection methods.
+
+• Identify the four phases of effective security in a hybrid data center architecture.
+
+• Configure the NGFW for Global Protect and to deny international attackers.
