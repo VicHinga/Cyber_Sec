@@ -1,0 +1,526 @@
+	## Cloud Security Fundamentals Final Quiz ##
+
+
+	Question 1
+
+Question text
+The first phase of implementing security in virtualized data centers consists of:
+
+Select one:
+
+a. Implementing a dynamic computing fabric
+
+b. Selectively virtualizing network security functions
+
+c. Consolidating servers within trust levels
+
+d. Consolidating servers across trust levels
+
+The correct answer is: Consolidating servers within trust levels
+
+
+
+	Question 2
+
+Question text
+Which cloud native technology balances separation, excellent compatibility with existing apps, and a high degree of operational control with good density potential and easy integration into software development flows.
+
+
+Select one:
+
+a. Thin VMs
+
+b. Serverless
+
+c. Containers
+
+d. CaaS
+
+The correct answer is: Containers
+
+
+
+	Question 3
+
+Question text
+Which of the 4 Cs of cloud native security provides the trusted computing base for a Kubernetes cluster. If the cluster is built on a foundation that is inherently vulnerable or configured with poor security controls, then the other layers cannot be properly secured.
+
+
+Select one:
+
+a. Cloud
+
+b. Containers
+
+c. Code
+
+d. Clusters
+
+The correct answer is: Cloud
+
+
+
+	Question 4
+
+Question text
+Ensuring your cloud resources and SaaS applications are correctly configured and adhere to your organization’s security standards from day one is essential to prevent successful attacks.
+
+Select one:
+True 
+False
+
+The correct answer is 'True'.
+
+
+
+	Question 5
+
+Question text
+Prisma SaaS is an inline service, so it doesn’t impact latency, bandwidth, or end-user experience.
+
+Select one:
+True
+False 
+
+The correct answer is 'False'.
+
+
+
+	Question 6
+
+Question text
+An added benefit of using virtual firewalls for east-west protection is the unprecedented traffic and threat visibility that the virtualized security device can now provide.
+Select one:
+True 
+False
+
+The correct answer is 'True'.
+
+
+
+	Question 7
+
+Question text
+Which platform provides all three cloud native characteristics by default and, while assembled from many more generic components, are highly optimized for container workloads.
+
+
+Select one:
+
+a. Serverless
+
+b. Thin VMs
+
+c. On-Demand Containers
+
+d. Container as a Service
+
+The correct answer is: Container as a Service
+
+
+
+	Question 8
+
+Question text
+Which consideration is not associated with secure virtualization?
+
+Select one:
+
+a. Hypervisor Vulnerabilities
+
+b. Intra-VM Communication
+
+c. Hypervisor Sprawl
+
+d. Dormant VMs
+
+The correct answer is: Hypervisor Sprawl
+
+
+
+	Question 9
+
+Question text
+In the serverless model, applications rely on managed services that abstract away the need to manage, patch, and secure infrastructure and virtual machines.
+
+Select one:
+True 
+False
+
+The correct answer is 'True'.
+
+
+
+	Question 10
+
+Question text
+Sanctioned SaaS applications fulfill a legitimate business need, but certain usage restrictions may be necessary to reduce risk.
+
+Select one:
+True 
+False
+
+Policies regarding application data sharing, PII information and others may need to be enforced in order to properly secure the application and reduce risk.
+
+The correct answer is 'True'.
+
+
+
+	Question 11
+
+Question text
+Which cloud computing service model is not defined by NIST?
+
+Select one:
+
+a. Infrastructure as a Service (IaaS)
+
+b. Software as a Service (SaaS)
+
+c. Platform as a Service (PaaS)
+
+d. Desktop as a Service (DaaS)
+
+The correct answer is: Desktop as a Service (DaaS)
+
+
+
+	Question 12
+
+Question text
+To safely enable SaaS usage in your organization, start by clearly defining the SaaS applications that should be used and which behaviors within those applications are allowed. Which category of applications are not allowed, then controlling their usage with granular policies
+
+Select one:
+
+a. Tolerated 
+
+b. Permitted
+
+c. Sanctioned 
+
+d. Unsanctioned
+
+The correct answer is: Unsanctioned
+
+
+
+	Question 13
+
+Question text
+Platform as a Service - PaaS – is best described as:
+
+Select one:
+
+a. A licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted.
+
+b. An online space where customers can develop, run, and manage applications without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app.
+
+c.An underlying network infrastructure that virtualizes physical computing resources, data partitioning, scaling, security, backup.
+Feedback
+
+The correct answer is: An online space where customers can develop, run, and manage applications without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app.
+
+
+
+	Question 14
+
+Question text
+Select the Prisma Cloud capability that decouples workload identity from IP addresses, leverages tags and metadata to assign a logical identity to applications and workloads, and then uses it to enforce ID-based micro-segmentation and security policies that adapt to your dynamic environments.
+
+Select one:
+
+a. UEBA
+
+b. Access management
+
+c. Identity and access management (IAM) security
+
+d. Machine identity
+
+The correct answer is: Machine identity
+
+
+
+	Question 15
+
+Question text
+Intra-VM traffic is also known as:
+
+Select one:
+
+a. North-South
+
+b. Unknown
+
+c. East-West
+
+d. North-East
+
+The correct answer is: East-West
+
+
+
+	Question 16
+
+Question text
+Which cloud computing deployment model is used exclusively by a single organization?
+
+Select one:
+
+a. Public
+
+b. Private
+
+c. Hybrid
+
+d. Community
+
+The correct answer is: Private
+
+
+
+	Question 17
+
+Question text
+The term “cloud native” refers to an approach to building and running applications that takes full advantage of a cloud computing delivery model instead of an on-premises data center.
+
+Select one:
+True 
+False
+
+The correct answer is 'True'.
+
+
+
+	Question 18
+
+Question text
+In which cloud native technology do applications rely on managed services that abstract away the need to manage, patch, and secure infrastructure and virtual machines.
+
+
+Select one:
+
+a. Serverless
+
+b. CaaS
+
+c. Containers
+
+d. Thin VMs
+
+The correct answer is: Serverless
+
+
+
+	Question 19
+
+Question text
+Select the type of cybersecurity solution or feature that discovers threats by identifying activity that deviates from a baseline.
+
+Select one:
+
+a. Integrated development environment (IDE)
+
+b. User and entity behavior analytics (UEBA) 
+
+c. Software configuration management (SCM)
+
+d. Dynamic User List (DUL)
+
+The correct answer is: User and entity behavior analytics (UEBA) 
+
+
+
+	Question 20
+
+Question text
+A cloud access security broker (CASB) is software that monitors activity and enforces security policies on traffic between an organization’s users and cloud-based applications and services.
+
+Select one:
+True 
+False
+
+The correct answer is 'True'.
+
+
+
+	Question 21
+
+Question text
+Which security-as-a-service layer in Prisma Access SASE capability provides visibility into SaaS application usage, understands where their sensitive data resides, enforces company policies for user access, and protects their data from hackers.
+
+Select one:
+
+a. Threat Prevention
+
+b. Secure Web Gateway (SWG)
+
+c. Cloud Access Security Broker (CASB)
+
+d. Data Loss Prevention (DLP)
+
+The correct answer is: Cloud Access Security Broker (CASB)
+
+
+
+	Question 22
+
+Question text
+The CI/CD pipeline integrates Development and Operations teams to improve productivity by automating infrastructure and workflows as well as continuously measuring application performance.
+
+
+Select one:
+True 
+False
+
+The correct answer is 'True'.
+
+
+
+	Question 23
+
+Question text
+Data that moves in and out of the virtualized environment from the host network or a corresponding traditional data center is also known as:
+
+Select one:
+
+a. North-East
+
+b. North-South
+
+c. Unknown
+
+d. East-West
+
+The correct answer is: North-South
+
+
+
+	Question 24
+
+Question text
+Development and Operations teams meet regularly, share analytics, and co-own projects from beginning to end.
+
+Select one:
+True 
+False
+
+The correct answer is 'True'.
+
+
+
+	Question 25
+
+Question text
+Which of the following is not a phase of implementing security in virtualized data centers:
+
+Select one:
+
+a. Implementing a static and flat computing fabric
+
+b. Selective network security virtualization
+
+c. Consolidating servers within trust levels
+
+d. Consolidating servers across trust levels
+
+The correct answer is: Implementing a static and flat computing fabric
+
+
+
+	Question 26
+
+Question text
+Which Prisma Access SASE capability can be used to block inappropriate content (such as pornography and gambling) or websites that businesses simply don’t want users accessing while at work, such as streaming services like Netflix.
+
+Select one:
+
+a. Secure Web Gateway (SWG)
+
+b. Zero Trust Network Access (ZTNA)
+
+c. Virtual Private Network (VPN)
+
+d. Firewall as a Service (FWaaS)
+
+The correct answer is: Secure Web Gateway (SWG)
+
+
+
+	Question 27
+
+Question text
+A hypervisor allows multiple, virtual (“guest”) operating systems to run concurrently on a single physical host computer.
+
+Select one:
+True 
+False
+
+The correct answer is 'True'.
+
+
+
+	Question 28
+
+Question text
+The cloud computing service model in which a provider’s applications run on a cloud infrastructure and the consumer does not manage or control the underlying infrastructure is known as:
+
+Select one:
+
+Platform as a Service (PAAS)
+
+Infrastructure as a Service (IAAS)
+
+Software as a Service (SAAS)
+
+Correct. The provider is delivering and supporting the application, or software, for the consumer.
+
+Identity as a Service (IDAAS)
+
+The correct answer is: Software as a Service (SAAS)
+
+
+
+	Question 29
+
+Question text
+True or False. The benefit of moving toward a cloud computing model is that it improves operational efficiencies and lowers capital expenditures.
+
+
+Select one:
+True 
+False
+
+The correct answer is 'True'.
+
+
+
+	Question 30
+
+Question text
+Which cloud deployment model is bound by standardized or proprietary technology that enables data and application portability (for example, fail over to a secondary data center for disaster recovery or content delivery networks across multiple clouds)?
+
+Select one:
+
+a. Private
+
+b. Community
+
+c. Hybrid
+
+d. Public
+
+The correct answer is: Hybrid
+
+
+
+	Question 31
+
+Question text
+The Cloud Native Computing Foundation (CNCF) Kubernetes project defines a container security model for Kubernetes in the context of cloud native security. This model is referred to as “the 4 C’s of Cloud Native security”.
+
+
+Select one:
+True 
+False
+
+The correct answer is 'True'.
