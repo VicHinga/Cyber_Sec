@@ -1,0 +1,129 @@
+
+
+
+
+	Question 1
+
+Question text
+Which security-as-a-service layer in Prisma Access SASE capability provides visibility into SaaS application usage, understands where their sensitive data resides, enforces company policies for user access, and protects their data from hackers.
+
+Select one:
+
+a. Data Loss Prevention (DLP)
+
+b. Cloud Access Security Broker (CASB)
+
+c. Secure Web Gateway (SWG)
+
+d. Threat Prevention
+
+The correct answer is: Cloud Access Security Broker (CASB)
+
+
+	Question 2
+
+Question text
+Select the Prisma Cloud capability that decouples workload identity from IP addresses, leverages tags and metadata to assign a logical identity to applications and workloads, and then uses it to enforce ID-based micro-segmentation and security policies that adapt to your dynamic environments.
+
+Select one:
+
+a. UEBA
+
+b. Machine identity
+
+c. Identity and access management (IAM) security
+
+d. Access management
+
+The correct answer is: Machine identity
+
+
+	Question 3
+
+Question text
+Which Prisma Access SASE capability can be used to block inappropriate content (such as pornography and gambling) or websites that businesses simply don’t want users accessing while at work, such as streaming services like Netflix.
+
+Select one:
+
+a. Firewall as a Service (FWaaS)
+
+b. Virtual Private Network (VPN)
+
+c. Zero Trust Network Access (ZTNA)
+
+d. Secure Web Gateway (SWG)
+
+The correct answer is: Secure Web Gateway (SWG)
+
+
+	Question 4
+
+Question text
+To safely enable SaaS usage in your organization, start by clearly defining the SaaS applications that should be used and which behaviors within those applications are allowed. Which category of applications are not allowed, then controlling their usage with granular policies
+
+Select one:
+
+a. Unsanctioned
+
+b. Tolerated 
+
+c. Permitted
+
+d. Sanctioned 
+
+The correct answer is: Unsanctioned
+
+
+	Question 5
+
+Question text
+Select the type of cybersecurity solution or feature that discovers threats by identifying activity that deviates from a baseline.
+
+Select one:
+
+a. User and entity behavior analytics (UEBA) 
+
+b. Integrated development environment (IDE)
+
+c. Dynamic User List (DUL)
+
+d. Software configuration management (SCM)
+
+The correct answer is: User and entity behavior analytics (UEBA) 
+
+
+	Question 6
+
+Question text
+Prisma SaaS is an inline service, so it doesn’t impact latency, bandwidth, or end-user experience.
+
+Select one:
+True
+False 
+
+The correct answer is 'False'.
+
+
+	Question 7
+Question text
+Sanctioned SaaS applications fulfill a legitimate business need, but certain usage restrictions may be necessary to reduce risk.
+
+Select one:
+True 
+False
+
+Policies regarding application data sharing, PII information and others may need to be enforced in order to properly secure the application and reduce risk.
+
+The correct answer is 'True'.
+
+
+
+	Question 8
+Question text
+A cloud access security broker (CASB) is software that monitors activity and enforces security policies on traffic between an organization’s users and cloud-based applications and services.
+
+Select one:
+True 
+False
+
+The correct answer is 'True'.
