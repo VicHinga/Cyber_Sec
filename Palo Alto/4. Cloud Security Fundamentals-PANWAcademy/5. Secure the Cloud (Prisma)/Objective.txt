@@ -1,0 +1,17 @@
+
+
+	Module 5: Secure the Cloud Objectives
+
+OBJECTIVES  - At the conclusion of this course module, students will be able to:
+
+• Recognize the four pillars of Prisma Cloud.
+• Describe the layers and capabilities in a Secure Access Service Edge (SASE).
+• Review the layers in a Prisma Access architecture solution.
+• Demonstrate an understanding of unique SaaS-based security risks.
+
+• Understand how Prisma SaaS protects SaaS-based applications and data.
+
+• Configure and test containers with vulnerability scanning.
+
+
+
