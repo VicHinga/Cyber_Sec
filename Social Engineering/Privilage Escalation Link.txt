@@ -1,0 +1,25 @@
+
+==================================================
+		Windows PrivEsc
+
+https://tryhackme.com/room/windows10privesc
+==================================================
+
+1. https://saihatnetsec.blogspot.com/2021/03/tryhackme-windows-privesc-walkthrough.html
+
+2. https://0xaniket.medium.com/tryhackme-windows-privesc-walkthrough-e5e323d2282
+
+3. https://github.com/xXxhagenxXx/OSCP_Cheat_sheet/blob/main/Windows%20Privilege%20Escalation%20Techniques.md#service-exploits---unquoted-service-path
+
+
+
+==================================================
+		Linux PrivEsc
+
+https://tryhackme.com/room/linuxprivesc
+==================================================
+
+1. https://saihatnetsec.blogspot.com/2021/02/tryhackme-linux-privesc-walkthrough.html
+
+
+
