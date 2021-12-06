@@ -1,0 +1,18 @@
+
+	Self Type
+
+https://www.youtube.com/watch?v=Jqgv5G-cAz0 
+
+
+	Remote connecion
+
+https://www.youtube.com/watch?v=T6DsAUGBjYw
+
+
+	TCP Connection
+
+https://riptutorial.com/powershell/example/18118/tcp-sender
+
+https://livebook.manning.com/book/powershell-deep-dives/chapter-4/1
+
+	Search:-> powershell send and receive data between ports
