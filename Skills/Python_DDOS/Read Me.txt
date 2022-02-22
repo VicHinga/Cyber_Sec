@@ -1,0 +1,4 @@
+
+NB:
+-> Python may not be the bet language to implement threading, although the script works fine
+-> Do not attack without permission
