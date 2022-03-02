@@ -1,0 +1,52 @@
+
+
+
+ Question 1
+Question text
+What is the motivation of the “Cyber Terrorist”?
+
+Select one:
+Fame
+*Ideology 
+Compassion
+Fortune
+
+ Question 2
+Question text
+What is the name of the malware that takes over a computer system and holds hostage the disk drives or other data?
+
+Select one:
+Scareware
+Phishingware
+*Ransomware 
+Kidnapware
+
+ Question 3
+Question text
+What is the primary motivation of the “Cyber Warrior”?
+
+Select one:
+*The political interest of their country’s government 
+Fame
+Money
+The adoption of Bitcoin as a national currency
+
+ Question 4
+Question text
+Attacking systems by exploiting unknown and unpatched vulnerabilities is also known as:
+
+Select one:
+First-day exploits
+Secret sauce
+Phishing
+*Zero-day exploits 
+
+ Question 5
+Question text
+What is the motive of the “Cyber Criminal”?
+
+Select one:
+Fame
+*Ideology
+Intimidation
+Money 
