@@ -1,0 +1,52 @@
+
+
+Question 1
+
+Which description best identifies the term malicious code?
+
+Select one:
+*An unwanted file or program that can cause harm to, or compromise data on, a computer 
+Code that does not behave in the manner intended by its author
+Untested code that a vendor releases to the public
+A program that has flaws in it
+
+Question 2
+
+In the context of cybersecurity, which definition best describes social engineering?
+
+Select one:
+A group of engineers who come together to talk code
+*An exploitation of a relationship or interaction to trick a person into divulging sensitive or personal information 
+A cooperative method used to develop and improve code
+A movement by which engineers are coerced into writing code a specific way
+
+Question 3
+
+Identify three examples of personally identifiable information (PII). (Choose three.)
+
+Select one or more:
+A one-time passcode sent to your device
+*Full name 
+*Biometrics, such as a fingerprint 
+*Credit card 
+Your network login credentials
+
+Question 4
+
+Which definition best describes personally identifiable information (PII)?
+
+Select one:
+Personal preferences, such as favourite settings in applications
+*Any information that someone can use to identify you 
+A means of identifying the author of information
+A government-issued number that is used to identify a citizen, mostly for tax purposes
+
+Question 5
+
+Which description best explains cybersecurity?
+ 
+Select one:
+Securing cyber advantages over a business competitor
+*Protecting networks, devices, and data from unauthorized access 
+Home and business security, using motion sensors and monitored by a security vendor
+Strategic Defence Initiative (SDI)
