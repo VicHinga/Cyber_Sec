@@ -1,0 +1,54 @@
+
+
+
+Question 1
+
+Complete the sentence. Phishing attacks are different than spearphishing, whaling, and vishing because they
+
+Select one:
+*are aimed at a wide audience, while the others are directed toward individuals or specific organizations. 
+are directed against smaller players—small fish you might say, while the others use social media sites.
+involve hackers hanging out at internet forums who then collect information about individuals to target, while the others are aimed at a wide audience.
+use social media and social engineering techniques to lure their victims, while the others primary use email.
+
+Question 2
+
+Which three activities pose a potential security threat to users? (Choose three.)
+
+Select one or more:
+*Connecting as a guest on an organization’s Wi-Fi network 
+Reading an online journal from a public library computer
+*Doing your banking on your laptop from a friend’s secured home network 
+*Connecting your device to a public, wireless hotspot to pay for a rental car 
+Using your own portable charger in a public place
+
+Question 3
+
+Which of the following is a good habit for protecting your mobile device?
+
+Select one:
+Configure your email accounts.
+Test connectivity by doing online banking.
+Set up a personal hotspot.
+*Change the factory-set default password and username. 
+
+Question 4
+
+Which precaution should you take if you receive an email that involves the movement of money, such as the payment of an invoice, even if it is from someone you know?
+
+Select one:
+Pay it immediately to avoid late fees.
+Look for spelling mistakes in the email. If you find any, delete the email. It’s obviously a scam.
+*Use another form of trusted communication to verify that the message is legitimate. 
+Reply to the email and ask them to provide proof of their identity.
+
+Question 5
+
+Which three of the following activities represents data vulnerabilities on a mobile device. (Choose three.)
+
+Select one or more:
+*Synchronization between computers and mobile devices 
+*Social networking 
+Creating contacts
+Listening to music
+*Banking 
