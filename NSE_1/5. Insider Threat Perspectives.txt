@@ -1,0 +1,51 @@
+
+
+ Question 1
+
+Why are insider threats one of the most challenging attack vectors?
+
+Select one:
+Insider attacks are common, obvious, and overwhelm IT security.
+*Employees are trusted users who have legitimate access to an organization’s data and resources. 
+There is little that can be done to prevent a denial of service attack.
+Network security is designed to defend against outsiders, not insiders.
+
+ Question 2
+
+What is the root cause of almost every data breach?
+
+Select one:
+*Human error 
+Zero-day attack
+Unpatched device
+Poorly crafted password
+
+ Question 3
+
+Who are included as insider threats?
+
+Select one:
+Any person with network security skills who works outside an organization
+Another organization or person who see themselves as competitors
+Ambitious people
+*Employees who sometimes do not follow security practices 
+
+ Question 4
+
+Identify two best practices for physical security awareness. (Choose two.)
+
+Select one or more:
+*Keep your desk free of any proprietary or confidential information. 
+*Lock your computer screen and mobile devices every time you step away. 
+Always be considerate, such as holding the door open for people, even if you don’t know them.
+Follow your organization’s security policies unless they hinder efficiency.
+
+ Question 5
+
+Which method is a defense against potential insider threats?
+
+Select one:
+Confront any person you suspect of being an insider threat.
+Investigate and if possible resolve the threat on your own.
+*Identify and report any suspicious activity. 
+Monitor your co-workers’ daily activities.
