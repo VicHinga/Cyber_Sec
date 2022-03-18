@@ -1,0 +1,58 @@
+
+
+  
+	Question 1
+
+Question text
+Which two benefits are gained from using an SD-WAN centralized management console? (Choose two.)
+
+Select one or more:
+*Greater network visibility 
+A diversity of management consoles and processes
+*An ability to prioritize business-critical applications 
+Greater data protection
+
+
+	Question 2
+
+Question text
+Which business trend caused greater latency to the internet in the network model for the single, dedicated service provider?
+
+Select one:
+Greater expenditures on research and development
+Moving from physical appliances to virtual appliances
+*Demand for more cloud applications and services 
+A focus on more capital expenditures
+
+
+	Question 3
+Question text
+Which feature in the first-generation SD-WAN applied intelligent business decisions?
+
+Select one:
+Single internet service provider
+Improved user interface
+Redundant WAN links
+*Basic load balancing 
+
+
+	Question 4
+Question text
+Complete the sentence. WAN is a computer network that
+
+Select one:
+*spans a large geographic area and typically consists of two or more LANs. 
+limits the number of switches and routers to reduce maintenance and administration.
+is a hybrid of on-premise devices and virtual servers across multiple cloud vendors.
+uses primarily virtual computers, thus expanding the east-west axis.
+
+
+	Question 5
+Question text
+Why might managing multiple point products cause greater complexity for IT security? (Choose two.)
+
+Select one or more:
+*Usually, multiple management consoles are required 
+Understaffed IT security teams who lacked expertise
+Greater streamlined security processes
+*Lack of integration between security products 
