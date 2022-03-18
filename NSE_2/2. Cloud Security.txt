@@ -1,0 +1,60 @@
+
+
+Question 1
+
+	Question text
+Identify the correct description for IaaS.
+
+Select one:
+Allows you to rent, or use for free, software, like Google Mail
+Integrates multi-cloud environments with the on-premises network
+*Allows you to rent virtualized data infrastructure without having to physically manage it on premises 
+Provides an online platform for developing software delivered over the internet
+
+
+	Question 2
+
+Question text
+Identify a potential problem that customers risk if they rely solely on vendor cloud security tools.
+
+Select one:
+*The tools provide basic security and do not secure all facets of a multi-cloud environment. 
+The tools can be expensive because they are based on a metered per-incident basis.
+The tools can interfere with BYOD and other Wi-Fi devices.
+The tools are too complicated and consume too many valuable MIS resources.
+
+
+	Question 3
+
+Question text
+What is an example of SaaS?
+
+Select one:
+FortiWeb
+*Google mail 
+AWS
+OS patching
+
+
+	Question 4
+
+Question text
+Complete the sentence. Cloud computing is the practice of
+
+Select one:
+building LANs comprised of virtual servers and connected by routers to form a virtual WAN.
+using a network of remote servers hosted on the internet to store, manage, and process data. 
+*connecting various computers and other network devices together using switches and routers.
+simultaneously running multiple datacenters using centralized mainframe computing.
+
+
+	Question 5
+
+Question text
+Which two cloud services are types of cloud computing? (Choose two.)
+
+Select one or more:
+Security as a Service (SaaS)
+*Platform as a Service (PaaS) 
+*Infrastructure as a Service (IaaS) 
+Integration as a Service (IaaS)
