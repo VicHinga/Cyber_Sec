@@ -1,0 +1,58 @@
+
+
+Question 1
+Correct
+1 points out of 1
+Not flaggedFlag question
+Question text
+Which attribute describes the earliest antivirus software?
+Select one:
+Detection and response
+Signature-based 
+Machine learning
+Polymorphic
+Question 2
+Correct
+1 points out of 1
+Not flaggedFlag question
+Question text
+Which two prevention-focused attributes are found in most contemporary endpoint security solutions? (Choose two.)
+Select one or more:
+Forensics
+Machine learning (ML) 
+Virtual patches 
+Remediation
+Question 3
+Correct
+1 points out of 1
+Not flaggedFlag question
+Question text
+Which three prevention-focused services are found in endpoint protection platform (EPP)? (Choose three.)
+Select one or more:
+Web filtering 
+Forensics
+Antivirus (AV) 
+Data protection through encryption 
+Remediation tools
+Question 4
+Correct
+1 points out of 1
+Not flaggedFlag question
+Question text
+Which type of malware seriously reduced the effectiveness of signature-based antivirus?
+Select one:
+Polymorphic 
+File-based
+Adware
+Social engineering
+Question 5
+Correct
+1 points out of 1
+Not flaggedFlag question
+Question text
+Which service is used as part of endpoint detection and response (EDR)?
+Select one:
+Forensics investigation tool 
+Web filtering
+Antivirus (AV)
+Device control
