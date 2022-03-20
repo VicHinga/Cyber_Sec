@@ -1,0 +1,59 @@
+
+  Question 1
+
+Question text
+Wi-Fi is based on which standard?
+
+Select one:
+ISO 5750
+10Base-T
+RFC 826
+*IEEE 802.11 
+
+
+  Question 2
+
+Question text
+Which two features of Wi-Fi Protected Access 3 (WPA3) strengthened security? (Choose two.)
+
+Select one or more:
+Complex passphrases were enforced.
+*The encryption key size was lengthened.
+*The handshake for establishing connections became more secure. 
+Digital signatures were introduced to help identify valid access points (APs).
+
+
+  Question 3
+
+Question text
+Which change that was introduced in Wi-Fi Protected Access 2 (WPA2) strengthened encrypted Wi-Fi communications?
+
+Select one:
+Hardware Security Modules (HSM)
+Enforcement of stronger passphrases
+*Advanced Encryption Standard (AES) algorithm 
+Encryption digital certificate
+
+
+  Question 4
+
+Question text
+What weakness of Wired Equivalent Privacy (WEP) made it unsuitable to secure Wi-Fi communications?
+
+Select one:
+It did not support digital signatures.
+*The RC4 encryption algorithm was easily defeated. 
+It did not enforce complex passwords.
+It was susceptible to man-in-middle attacks.
+
+
+  Question 5
+
+Question text
+What is Wi-Fi?
+
+Select one:
+Fiber that makes wireless technology possible
+*Technology for radio wireless local area networks 
+Quality audio technology
+An Ethernet networking protocol
