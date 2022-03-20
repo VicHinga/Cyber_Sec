@@ -1,0 +1,61 @@
+
+
+  Question 1
+
+Question text
+Which type was the first generation of firewalls?
+
+Select one:
+Application layer
+Stateful
+*Packet filter 
+Next-generation firewall (NGFW)
+
+
+  Question 2
+
+Question text
+Which two types of firewalls can block a connection based on application type? (Choose two.)
+
+Select one or more:
+*Next-generation firewall (NGFW) 
+*Application layer 
+Second generation stateful
+Packet filter
+
+
+  Question 3
+
+Question text
+Which three traits are characteristics of a next generation firewall (NGFW)? (Choose three.)
+
+Select one or more:
+*Can segment a network based on user, device, and application type 
+Controls network traffic based on network address only
+*Controls applications based on type or who the user is 
+*Delivers high-performance inspection 
+Inspects only unencrypted packets
+
+
+  Question 4
+
+Question text
+What was a limitation of first-generation firewalls?
+
+Select one:
+Produced many false positives, thereby overwhelming IT security
+Granular policy capability made managing the firewall too complex
+Filtered only at layer 3 of the OSI model
+*Could not distinguish between malicious and legitimate applications 
+
+
+  Question 5
+
+Question text
+Complete the sentence. A packet filter firewall controls network traffic based on
+
+Select one:
+filtering layers 2—7 of the OSI model.
+*network addresses, protocols, and ports. 
+application behaviour or characteristics.
+the behaviour of the network connections.
