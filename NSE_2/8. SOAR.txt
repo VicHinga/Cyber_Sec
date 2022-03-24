@@ -1,0 +1,61 @@
+
+
+
+	Question 1
+
+Question text
+What is alert fatigue?
+
+Select one:
+*Analysts are overwhelmed by the number of alerts 
+Analysts reduce the number of alerts using SOAR
+The SOAR system is overloaded by the amount of network traffic
+Measures the time lag to resolve alerts
+
+
+	Question 2
+
+Question text
+Which statement best describes SOAR?
+
+Select one:
+*SOAR connects all security tools together into defined workflows that can be run automatically 
+SOAR collects logs from all security tools to improve network visibility
+SOAR plays out potential cyberattacks to improve network security preparedness
+SOAR orients the security team by defining and categorizing cyberattacks
+
+
+	Question 3
+
+Question text
+What are playbooks used for?
+
+Select one:
+To provide a set of scenarios of predicted cyberattack methods
+To describe the order in which analysts complete tasks
+*To automate the actions that an analyst would typically do manually 
+To plan a set of manual tasks to be completed by analysts
+
+
+	Question 4
+
+Question text
+Which is a benefit of SOAR?
+
+Select one:
+It deflects DDoS attacks and identifies the Command and Control source
+It analyzes and generates a security score to measure improvements in network security
+*It increases security team efficacy by automating repetitive processes 
+It reports on which endpoints require patching and have security vulnerabilities
+
+
+	Question 5
+
+Question text
+What is a common use case for an implementation of SOAR by customers?
+
+Select one:
+*Phishing investigations 
+Logging events and alerts
+Detecting zero-day attacks
+Guarding against DoS attacks
