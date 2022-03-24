@@ -1,0 +1,63 @@
+
+
+
+
+	Question 1
+
+Question text
+Which statement best describes an indicator of compromise (IoC)?
+
+Select one:
+Sources of potential threat actors and their sponsors
+Valuable information about computer systems and the network
+*Evidence that a cyberattack has happened or is ongoing 
+A list of network devices that are known to be compromised
+
+
+	Question 2
+
+Question text
+In the early days, with which three frequencies did vendors update AV signatures? (Choose three.)
+
+Select one or more:
+*Annually 
+*Monthly 
+Bi-annually
+Weekly
+*Quarterly 
+
+
+	Question 3
+
+Question text
+Which statement best describes polymorphic malware?
+
+Select one:
+Polymorphic malware is malware that remains unique and unchanging.
+Polymorphic malware is unsophisticated malware that can evade signature-based scanning.
+*Polymorphic malware is a malware family with thousands of variants but behaving the same way. 
+Polymorphic malware is malware that exploits an unknown security weakness in an application or OS.
+
+
+	Question 4
+
+Question text
+Which behavior does a sandbox look for when searching for malware?
+
+Select one:
+*Behaved abnormally 
+Matched signatures
+Exploited known software weakness
+Failed check sum
+
+
+	Question 5
+
+Question text
+Which method best defeats unknown malware?
+
+Select one:
+Signature-based detection
+Web filtering
+Predicted malware detection
+*Sandboxing 
