@@ -1,0 +1,62 @@
+
+
+
+	Question 1
+
+Question text
+What drives organizations to buy IoT devices?
+
+Select one:
+Mandated by government
+Required as part of an air-gap solution
+Provide valuable data to the CFO
+*Can save time and money 
+
+
+	Question 2
+
+Question text
+Why are IoT devices potential conduits of contagion?
+
+Select one:
+There are too many incompatible IoT security standards in use
+Does not support two-factor authentication
+IoT devices are often cheaply made
+*Not able to install security software 
+
+
+	Question 3
+
+Question text
+How does NAC effectively segment a network?
+
+Select one:
+Using IP addresses
+Using user roles
+*Utilizing device profiles 
+Routers
+
+
+	Question 4
+
+Question text
+Which three parties participate in network authentication, according to the IEEE 802.1X standards? (Choose three.)
+
+Select one or more:
+*Client device 
+*Authentication server 
+Router
+Certification authority
+*Authenticator 
+
+
+	Question 5
+
+Question text
+Which security challenge do BYODs pose to networks?
+
+Select one:
+*MIS does not control what is installed on these devices 
+Increase the maintenance cycle for network devices
+Limited RAM prevents the installation of security software
+Data exfiltration
