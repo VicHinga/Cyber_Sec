@@ -1,0 +1,60 @@
+
+
+	Question 1
+
+Question text
+Which feature characterizes third-generation sandbox technology?
+
+Select one:
+Scanning of encrypted data streams
+Streamlines manual testing
+Faster network speeds
+*Automation and artificial intelligence 
+
+
+	Question 2
+
+Question text
+Which feature in early networks made aggregating threat intelligence difficult?
+
+Select one:
+Hybrid cloud environments
+Segmentation
+*Point solutions 
+Virtualization
+
+
+	Question 3
+
+Question text
+Which failing characterized early sandbox technology?
+
+Select one:
+*Lack of integration with other security devices 
+Slowed network traffic
+Could not stop zero-day attacks
+Failed to categorize malware
+
+
+	Question 4
+
+Question text
+Which new development in malware caused sandbox technology to automate and introduce artificial intelligence learning?
+
+Select one:
+*AI-driven attacks 
+Trojan horse
+Polymorphic viruses
+Ransomware
+
+
+	Question 5
+
+Question text
+Within the computer security context, what is a sandbox?
+
+Select one:
+A service in the Cloud used to collect and share threat intelligence
+*An isolated virtual environment to test suspicious files and hyperlinks 
+A process used to identify, describe, and categorize malware
+A segment of the network reserved for testing unknown programs
