@@ -1,0 +1,62 @@
+
+
+
+
+	Question 1
+
+Question text
+Which feature provides SIEM greater visibility into the entire network?
+
+Select one:
+Deciphering encrypted logs and alerts
+*Analyzing logs and alerts from a single-pane-of-glass 
+Sharing of logs by IoTs and BYODs
+Complying with regulations
+
+
+	Question 2
+
+Question text
+Which two requirements were the motivation for SIEM? (Choose two.)
+
+Select one or more:
+Remaining competitive
+*Complying to regulations 
+Exploiting Big Data
+*Increasing number of alerts 
+
+
+	Question 3
+
+Question text
+Which compliance, if ignored by businesses, hospitals, and other organizations, can result in punitive fines?
+
+Select one:
+*Complying to regulations 
+Complying to machine learning checks
+Complying to automatic backups and integrity checks
+Complying to User and entity behavior analytics (UEBA)
+
+
+	Question 4
+
+Question text
+Which feature is a characteristic of later SIEMs?
+
+Select one:
+Automatic backups and integrity checking
+Collect, normalize, and store log events and alerts
+*User and entity behavior analytics (UEBA) 
+Deciphering encrypted data flows
+
+
+	Question 5
+
+Question text
+What is one method that SIEM uses to analyze data?
+
+Select one:
+Decipher encrypted data flows
+*Watch for known indicators of compromise (IoC) 
+Decipher encrypted logs and alerts
+Apply security controls
