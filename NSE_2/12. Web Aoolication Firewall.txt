@@ -1,0 +1,84 @@
+
+
+
+	Question 1
+
+Question text
+Which event was the motivation for web application firewall (WAFs)?
+
+Select one:
+*The debut of the World Wide Web
+The first wide area network (WAN)
+ARPANET was brought online
+The development of the hypertext transfer protocol 
+
+	Question 2
+
+Question text
+Which action can a modern WAF do?
+
+Select one:
+Stop any user action should it exceed their network permissions
+Segment the network based on device type and user role 
+Connect all tools in the security stack into defined workflows
+Survey the network and calculate a value to represent the security posture
+
+
+	Question 3
+
+Question text
+Which new feature characterized second-generation WAFs?
+
+Select one:
+Port and protocol blocking
+Packet analysis
+*Heuristics 
+Machine learning without human supervision
+
+
+	Question 4
+
+Question text
+Which protocol traffic does a web application firewall (WAF) monitor?
+
+Select one:
+IP
+TCP
+CLNP
+*HTTP 
+
+
+	Question 5
+
+Question text
+Which three features are characteristics of the latest generation WAF? (Choose three.)
+
+Select one or more:
+*IP reputation 
+SPU
+*DLP 
+*DDoS defense 
+Network segmentation
+
+
+	Question 6
+
+Question text
+Which firewall is positioned between a web application and the Internet?
+
+Select one:
+*Web application firewall 
+Packet filter firewall
+Segmentation firewall
+Edge firewall
+
+
+	Question 7
+
+Which action can a modern WAF do?
+
+Select one:
+Survey the network and calculate a value to represent the security posture
+Connect all tools in the security stack into defined workflows
+Segment the network based on device type and user role
+*Stop any user action should it exceed their network permissions 
