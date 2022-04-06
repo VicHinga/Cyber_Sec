@@ -1,0 +1,64 @@
+
+
+
+	Question 1
+
+Question text
+Which technique used by a threat actor is known as spam?
+
+Select one:
+Fraudulent messages that target a specific role or person within an organization
+Weaponized emails that claim to come from a legitimate sender
+An attacker observes websites that a targeted group visits, and herds them into an infected website
+*Irrelevant or inappropriate messages sent on the Internet to a large number of recipients 
+
+
+
+	Question 2
+
+Question text
+Which two methods are used by threat actors to compromise your device when conducting phishing campaigns? (Choose two.)
+
+Select one or more:
+*An embedded hyperlink within an email 
+*An attachment to an email 
+Click bait
+An infected thumb drive
+
+
+
+	Question 3
+
+Question text
+Which method did the earliest spam filter use to stop spam?
+
+Select one:
+Tested emails in a sandbox environment
+*Identified specific words or patterns 
+Detected illegitimate email addresses
+Detected unusual behaviour
+
+
+
+	Question 4
+
+Question text
+Which option identifies the trend of phishing?
+
+Select one:
+Declining
+*Increasing 
+Erratic
+Plateaued
+
+
+
+	Question 5
+Question text
+Which technique used by threat actors is known as phishing?
+
+Select one:
+An attacker observes websites that a targeted group visits, and herds them into an infected website
+Irrelevant or inappropriate messages sent on the Internet to a large number of recipients
+*A fraudulent practice of sending emails purporting to be reputable in order to steal information 
+Fraudulent messages that target a specific role or person within an organization
