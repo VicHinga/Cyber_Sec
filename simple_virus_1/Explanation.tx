@@ -1,7 +1,10 @@
 Use this code for educational purpose only 
 
-The purpose of the virus is to infect the : "who_am_i.py"
+The purpose of the virus is to infect the : "who_am_i.py" and "Hello.py" in the same directory.
 
 By running the virus.py then the who_am_i.py the second file is infected and will error out.
 
 error (The file has been modified by another program)
+
+This shows you could run another code on another application 
+
