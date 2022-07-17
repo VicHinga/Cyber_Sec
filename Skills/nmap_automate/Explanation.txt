@@ -1,0 +1,16 @@
+A script for enumeration and fuzzing
+
+Set up the interpreter "python3"
+
+-> need nmap module
+
+-> PortScanner class from nmap
+
+
+- Prompt the user for input (address)
+
+- Prompt user to choose an option
+	1. syn ack scann
+	2. udp scann
+	3. comprehensive scann
+
