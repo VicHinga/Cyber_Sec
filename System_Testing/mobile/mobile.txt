@@ -1,0 +1,85 @@
+
+https://owasp.org/www-project-mobile-top-10/
+
+https://www.getastra.com/blog/app-security/mobile-application-penetration-testing/
+
+
+
+		Types of Mobile Apps:
+
+1. Native Mobile Apps
+	Apps are usually created for a specific platform like Android or iOS.
+
+2. Hybrid Apps
+	Apps are usually created for multiple platforms from from a single codebase.
+
+3. Progressive Web Apps (PWA)
+	 Software app based on the web that will install on a system.
+
+
+ Mobile app Security Risks:-
+
+1. Insecure Data Storage < sensitive info should be kept safe >
+2. Untrusted Inputs <  >
+3. Insecure Communication <  >
+4. Insufficient Cryptography <  >
+5. Code Obfuscation < transforming the source code of an application to hinder reverse engineering >
+
+
+  Parameters to test while performing Mobile Application Penetration Testing
+
+1. Architecture, design, and threat modeling: <  >
+2. Network communication: < testing how the data travels over networks >
+3. Data storage and privacy: < storage of sensitive data >
+4. Authentication and session management: < testing for session management issues such as session expiration on password change >
+5. Misconfiguration errors in code or build settings: <  >
+
+
+  Methodology of Mobile App Penetration Testing:
+
+Step 1. Preparation and Discovery:
+
+  Understanding the design and architecture of the application.
+  Understanding network-level data flow of the application
+  Using OSINT to gather data
+
+Step 2. Analysis, Assessment, and Evaluation:
+
+  Static and dynamic analysis
+  Architecture analysis
+  Reverse engineering
+  Analysis of file system
+  Inter application communication
+
+Step 3. Exploitation:
+
+   Testing the application with simulated real-world attacks to understand how it will behave when an attack occurs. Example: reverse shell or root exploit.
+
+Step 4. Reporting:
+
+   Prepare a detailed report of the attacks performed.
+
+
+
+
+	Tools For Mobile Pentest:
+
+- Android Debug Bridge 
+- Burp Suite 
+- Cycript
+- Drozer
+- Frida 
+
+- iOS Reverse Engineering Toolkit
+- Mobile Security Framework 
+- Zed Attack Proxy
+- Quick Android Review Kit 
+- Santoku
+
+
+	Platforms:
+
+- https://www.infosecinstitute.com/courses/ethical-hacking-boot-camp/
+- https://www.edx.org/course/penetration-testing-discovering-vulnerabilities
+- https://www.sans.org/cyber-security-skills-roadmap/
+- https://www.coursera.org/learn/ibm-penetration-testing-incident-response-forensics
