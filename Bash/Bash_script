@@ -1,0 +1,182 @@
+ 
+ [-] Automate Shell Interaction With BASH
+ 
+ <Link>: https://linuxconfig.org/bash-scripting-tutorial-for-beginners
+ 
+ 
+ ==========================================================================
+ 
+ -> vi to create a new file called task.sh : vi <file name>.sh
+ 
+ -> enter the commands: 
+ date
+ cal
+ pwd
+ ls
+ 
+ :x (save and exit vim)
+ 
+ -> chmod +x <file name>.sh
+ 
+ -> execute your new script by prefixing its name with ./<filename>.sh
+ 
+ ==========================================================================
+ 
+ -> first locate a full path to its executable binary, identify first line
+ 
+ #!/usr/bin/bash
+ 
+ -> can be located using command
+ 
+ which bash
+ 
+ -> ./<filename>.sh or bash<fileaname>.sh
+ 
+ ==========================================================================
+ 
+-> Generally, terminal input comes from a keyboard. Any keystroke you type is accepted as 'stdin'. 
+
+-> Accept command input from a file using '<' notation
+-> Write to a file '>' notation
+
+==========================================================================
+ 
+ [-] FUNCTIONS EXAMPLE
+ 
+ #!/bin/bash
+
+# This bash script is used to backup a user's home directory to /tmp/.
+
+user=$(whoami)
+input=/home/$user
+output=/tmp/${user}_home_$(date +%Y-%m-%d_%H%M%S).tar.gz
+
+# The function total_files reports a total number of files for a given directory. 
+function total_files {
+        find $1 -type f | wc -l
+}
+
+# The function total_directories reports a total number of directories
+# for a given directory. 
+function total_directories {
+        find $1 -type d | wc -l
+}
+
+tar -czf $output $input 2> /dev/null
+
+echo -n "Files to be included:"
+total_files $input
+echo -n "Directories to be included:"
+total_directories $input
+
+echo "Backup of $input completed!"
+
+echo "Details about the output backup file:"
+ls -l $output
+
+
+==========================================================================
+
+
+[-] LOGICAL OPERATORS
+
+less thaN -lt  '<'
+greater than -gt  '>'
+equal -eq  .=.
+not equal -ne  '!='
+less or equal -le '<='
+greater or equal -ge '>='
+
+
+[-] Simple Example
+
+#!/bin/bash
+
+string_a="UNIX"
+string_b="GNU"
+
+echo "Are $string_a and $string_b strings equal?"
+[ $string_a = $string_b ]
+echo $?
+
+num_a=100
+num_b=100
+
+echo "Is $num_a equal to $num_b ?" 
+[ $num_a -eq $num_b ]
+echo $?
+
+
+==========================================================================
+
+
+[-]
+
+
+[-] Example
+
+#!/bin/bash
+
+echo $1 $2 $4
+echo $#
+echo $*
+
+
+
+-> echo [1] will print the parameters in their ordered position
+
+	eg. Have you done it => Have you it
+	
+->echo [2] will print the number of arguments supplied
+	eg. 4 (for this case)
+ 
+->echo [3] will print out all the arguments given
+
+	eg. Have you done it => Have you done it
+
+==========================================================================
+
+
+  from the backups.sh file
+
+-> -z bash option in combination with conditional if statement to check whether positional parameter $1 contains any value. Which returns true if the length of the string which in our case is variable $1 is zero.
+
+->  We set $user variable to a current user's name.
+
+->  We check if the requested user's home directory exists by using -d bash option. By default -d option returns true if the directory exists, hence our ! just reverts the logic
+
+->  We have also assigned exit value 1 as opposed to 0 meaning that the script exited with an error.
+
+
+==========================================================================
+
+[-] Bash Arithmetics
+
+[-] Arithmetic Expansion:
+	eg. a = $((12+5))  => echo $a gives 17
+	
+[-] expr command:
+
+-> Without enclosing our mathematical expression within brackets or quotes. However, do not forget to escape asterisk multiplication sign to avoid expr: syntax error	
+
+	eg. expr 6 \* 6 => 36
+	
+	eg. expr 6 * 6  => expr: syntax error
+
+[-] let command:
+
+	eg. let a = 6 * 7 => echo $a gives 42
+	
+[-] bc command
+
+->  working with decimal numbers
+
+->  bc command with a proper syntax allows for more than simple integer calculations.
+
+-> Use scale=x to instruct the bc command to show real numbers by default the results will be integer number. 
+
+	eg echo '8.5 / 3.2' | bc  => 3
+	
+	eg echo 'scale=2; 8.5 / 3.2' | bc  => 3.69
+	
+	==========================================================================
