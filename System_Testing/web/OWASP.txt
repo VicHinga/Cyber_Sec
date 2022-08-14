@@ -1,0 +1,128 @@
+
+[ INPUT VALIDATION TESTING ]
+
+
+
+[1]- Testing for HTTP Verb Tampering
+[2]- Test for HTTP Parameter pollution
+
+
+
+CLIENT SIDE TETING
+
+* [3]- Testing for DOM based Cross Site Scripting
+
+https://www.youtube.com/watch?v=_3Wgx1FabIo
+https://www.youtube.com/watch?v=X87Ubv-qDm4
+
+https://portswigger.net/web-security/dom-based
+https://medium.com/@fath3ad.22/understanding-dom-based-xss-sources-and-sinks-c17ae4bc7455
+
+
+Hacker convince a browser to excute code that the hacker created on behalf of another user
+
+- Reflected: Payload present in URL Query, which when received by the server would lead to the generation of a new page send it back to client and script execution would occur; the payload was interprated as script.
+
+- Stored: Hacker would submit payload on a chat app or application with persistance; the payload will be persistance in a database and when a user calls that page, they will get a page with the payload stored in database.
+
+- DOM: DOM based cross site scripting occurs when JavaScript code accepts a user’s input (source) and passes that input to another function that displays the results back to the page (sink) in an unsafe manner. (there’s no security checks on the input before is displayed back on the screen)
+	DOM XSS are not persisted or Handled by the server.  	
+
+
+	Test:
+		- URL
+		-  
+	
+
+[4]- Testing for JavaScript Execution
+  
+
+
+[5]- Testing for HTML Injection
+
+https://www.youtube.com/watch?v=pCOKfrAOVF4
+
+- Identify input points in software.
+- Check for reflected inputs (try using html tags in such inputs)
+
+- Back buttons:
+	After pressing the back button, Referer header
+
+- Inject html code through HTTP Headers (eg. User Agent String)
+- Simple redirect code to be injected in header:
+	<meta http-equiv="refresh" content="5; URL=https://www.google.com"/> 
+- 
+
+
+
+HTML injection
+	Add to your blog
+	Browser info
+	DNS LOOKUP
+	Pentest Tool Lookup
+	Text File Viewer
+	User info (SQL)
+	User info (XPATH)
+	Register User
+	Back buttons
+	Password generator
+	Capture Data Page
+
+
+	1. Stored
+	2. Reflected (GET, POST, URL)
+
+
+
+
+
+
+[6]- Testing for Client Side URL Redirect or Testing for Open Redirect
+
+check for:-
+	<meta> tags
+	<header> tags location
+	DOM window.location
+
+https://youtube.com/watch?v=4Jk_I-cw4WE
+
+https://kennel209.gitbooks.io/owasp-testing-guide-v4/content/en/web_application_security_testing/testing_for_client_side_url_redirect_otg-client-004.html
+
+Simple test scenario: 
+	https://www.youtube.com/watch?v=vf6GM0Araxw
+	https://www.youtube.com/watch?v=grkMW56WX2E
+	https://www.youtube.com/watch?v=dz052doAJSE
+	https://www.youtube.com/watch?v=lj0LOpTGSNU  (parameters to test)
+	
+	*https://www.youtube.com/watch?v=Pp_gJh5B1Dg
+
+	Scenario:
+		1. Phishing
+		2. Token Theft
+		3. Server Side Request Forgery
+		4. Redirect to Protocal Handler
+
+	Protect:
+		1. Whitelist possible redirect locations
+		2. Generate unique ID for possible redirect locaion
+		3. Add a referrer-policy to avoid token leaks (defense in-depth)
+		4. Add an aditional step(warn you when redirected to a site)
+
+
+
+*[7]- Testing for CSS Injection
+
+https://www.youtube.com/watch?v=cp-yTK7dJJk
+https://kennel209.gitbooks.io/owasp-testing-guide-v4/content/en/web_application_security_testing/testing_for_css_injection_otg-client-005.html
+
+https://www.c-sharpcorner.com/article/css-injection-exploitation/
+
+
+Inject arbitrary CSS code in the context of a trusted web site which is rendered inside a victim’s browser.
+It may lead to cross site scripting or data exfiltration.
+
+
+Disable script interaction from the client side:— 
+	Placing the HttpOnly flag on a cookie indicates it should be inaccessible from the client side. The server should use this flag on all cookies it creates to prevent their exposure to a third party and protect against HTML injection vulnerabilities.
+
+Check if can add css property or execute js
