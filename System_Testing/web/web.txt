@@ -1,0 +1,85 @@
+https://www.turing.com/blog/web-application-penetration-testing-basics/
+
+https://owasp.org/www-project-top-ten/
+
+		Web Application Penetration Testing
+
+Internal Pen Testing
+
+- Simulation of Phishing attacks 
+- Malicious employee attacks 
+- Attacks using user privileges 
+- Social engineering attacks
+
+
+External Pen Testing
+
+- Testing the applications’ firewalls.
+- IDS. 
+- DNS. 
+- Front-end & back-end servers.
+
+
+< Blind Testing, Double-Blind and Targeted Testing. >
+
+
+	Steps of Web Application Penetration Testing:
+
+Planning and reconnaissance:-
+
+Goals and objectives of the test process, gathering information (servers, networks, domain names etc.) and choosing the tools and techniques for testing.
+
+	Active Reconnaissance:- 
+
+( Tester directly probes the target system to gather information )
+
+- Shodan network scanner 
+- Fingerprinting the web application 
+- DNS zone transfer 
+- DNS forward and reverse lookup
+
+	Passive Reconnaissance:-
+
+( Tester gathers the information available on the internet without having a direct interaction with the target system. )
+
+- W3af
+- Veracode
+- Burp Suite
+- SQLMap
+- ZAP
+- Metasploit
+- Acunetix
+- Vega
+- Skipfish
+- Ratproxy
+- NetSparker
+- Watcher
+
+
+
+Scanning and exploitation:-
+
+-> Simulate cyberattacks on the web applications and discover the target’s vulnerabilities.
+-> Exploit those vulnerabilities by gaining access to privileged information, stealing data, modifying system configurations, intercepting traffic, and more to estimate the amount of damage they can cause to the target system.
+
+- Cross-Site Scripting
+- Security Misconfigurations
+- SQL Injection
+- Password Cracking
+- Caching Servers Attacks
+- Cross-Site Request Forgery
+- File Upload flaws
+- Broken authentication and session management 
+
+
+
+Analysis and reporting:-
+
+-> Report is compiled to outline the significant findings of the test process.
+
+
+
+
+
+
+

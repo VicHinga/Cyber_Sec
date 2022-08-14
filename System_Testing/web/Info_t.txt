@@ -1,0 +1,39 @@
+ [*] Reconnisance=>
+ 	Passive (b4 scan)
+ 		a. Target Validation (whois, nslookup, dnsrecon)
+ 		b. Finding subdomains (Google Fu, dig, Namp, Sublist3r, Bluto, crt.sh<%.domain.com> )
+ 		c. Fingerprinting  < Identify network protocols, operating systems, hardware devices, software among other >
+ 		(Browser, Nmap, wappylizer, Builtwith)
+ 		d. Data Breaches (haveibeenpwned)
+ 		e. hunter.io (get credentials)
+ 		f. weleakinfo.com
+ 		
+ 		
+ 	Active (scan files and folders)
+ 		a. securityheaders.io (missing headers)
+ 		b. Self spider the site/ manual map website ()
+ 		
+ 		
+ [*] Scanning and Enumeration
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [*] Gain Access (Exploitaion)
+ 
+ [*] Maintain Access
+ 	
+ [*] Cover Tracks
+ 	
+ 
+ 
+ 
+ [*] 
