@@ -1,0 +1,80 @@
+
+====================================================================================
+
+=> https://thei4group.com/ceh-practice-tests-and-sample-questions/
+
+=> https://github.com/foxbit19/ceh-notes
+
+ClassNotes => https://drive.google.com/drive/folders/1PZyq5gxcaASttZ5OcgoHNzb7b2YlgWA7
+
+
+Exam Body Partner => aspen.eccouncil.org  
+
+
+
+1. Henry:- Old Mutual
+
+2. Kenedy Hinga:- CBK 
+
+3. Rashid: Swidish Guy
+
+4. Philip Student: St' Pauls University
+
+5. Kabarak Student
+
+6. Ester Transitioning to Security : JKUAT  
+
+7. Lenny BBIT Student: Strathmore
+
+8. Terrisa IT: Scott University
+
+9. Mini BBIT Student: Strathmore
+
+10. Steve Infosec Audit: USIU   
+
+11. Brandon BBIT Student: Strathmore 
+
+12. Leeroy BBIT Student: Strathmore
+
+13. Muhamud: 
+
+====================================================================================
+
+NB:-
+
+Check the ISO compatibility with your system:
+	-> 64 bit or 32 bit
+	-> Check the stogare space available (Either on Device or USB Drive)
+ 
+Kali Linux bootable USB with persistence:
+	https://www.youtube.com/watch?v=n2olKupv9fY
+
+Virtual Machines, Virtual box set up:
+	https://www.youtube.com/watch?v=wX75Z-4MEoM
+
+
+====================================================================================
+
+The CEH exam is a four-hour, 125-question test that covers a wide range of topics related to ethical hacking. There are twenty modules in the exam, each covering a different topic. The topics covered in the exam are as follows:
+
+1. Introduction to ethical hacking
+2. Footprinting and reconnaissance
+3. Scanning networks
+4. Enumeration
+5. Vulnerability analysis
+6. System hacking
+7. Malware threats
+8. Sniffing
+9. Social engineering
+10. Denial-of-service
+11. Session hijacking
+12. Evading IDS, firewalls, and honeypots
+13. Hacking web servers
+14. Hacking web applications
+15. SQL injection
+16. Hacking wireless networks
+17. Hacking mobile platforms
+18. IoT hacking
+19. Cloud computing
+20. Cryptography
+
