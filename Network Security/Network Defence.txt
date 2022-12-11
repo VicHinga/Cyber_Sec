@@ -1,0 +1,50 @@
+
+
+Network security Controls:- Parameters implemented to protect various forms of data and infrastructure
+
+
+*Network Security Protocols:-
+
+
+Network Security Devices:- Firewalls, Ips Ids
+
+------------------------------------------------------------------------------------
+
+Network defense goal is to protect org. information systems and Network infrustructure from 
+	unauthorised access, 
+	missuse, 
+	modification, 
+	service denial
+
+Network devices:
+	https://www.youtube.com/watch?v=1oALEtUk2VE
+
+1. Repeater:-  < Physical Layer >
+	Operates at the physical layer. Its job is to regenerate the signal over the same network before the signal becomes too weak or corrupted to extend the length to which the signal can be transmitted.
+
+2. Hub:- 	
+	A hub is a basically multi-port repeater. (Broadcast packets to all connected devices)
+
+3. Bridge:- <Data Link Layer>
+	A two prot device that connects two LANS working on same protocol, it is more intelligent than a hub as ti reads the mac address of the source and destination hence no broadcast.
+
+4. Switch:-
+	A data link layer device which performs error checking before forwarding data moreover it identifies devices using IP adress and sends packets to the correct port only.
+
+5. Router:- <Network layer>
+	A router is a device like a switch that routes data packets based on their IP addresses. The router is mainly a Network Layer device.
+	Routers connect LANS	
+
+6. Gateway: 
+	Passage to connect two ntworks togather working on different networking models (Acts as an entry and Exit point of a network)
+
+
+7. Brouter: <Data link and Network layer>
+Combination of bridge and router
+
+
+8. NIC: Network Interface Card is a network adapter that is used to connect the computer to the network.
+
+
+
+------------------------------------------------------------------------------------
