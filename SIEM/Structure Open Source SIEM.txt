@@ -1,0 +1,231 @@
+
+Similar video: https://www.youtube.com/watch?v=t4EJ98BNcvw
+
+
+===========================================
+Key Elements That Make SIEM Stack
+===========================================
+
+
+a. What Makes a good Stack
+b. What Free tools are available
+c. Architecture overview
+d. Deployment Strategy
+
+
++++++++++++++++++++++++++++++++++++
+Log Ingestion
++++++++++++++++++++++++++++++++++++
+
+- Collecring logs from (Endpoints, Network devices, Third party <office 365 Api>)
+
+- Normalising Logs to universal names for faster searching and visualization.
+	(Normalise source_ip, source_ipv4_ip to src_ip field)
+
+- Ensure the backend storage has caching if storage is busy or offline
+
+
++++++++++++++++++++++++++++++++++++
+Log Analysis
++++++++++++++++++++++++++++++++++++
+
+- Need a way to customize rules to feet environment needs 
+
+- Determine the severity of logs ingested via log analysis
+
+- Discard noisy alerts to limit overflow of unnecesary data mainy configured at the log ingestion of the SIEM
+	(Ensure logs being stored are logs of use discard eg. TCP teradown)
+	
+	TCP teradown FIN -> ACK -> FIN  -> ACK
+
+
++++++++++++++++++++++++++++++++++++
+Backend Storage
++++++++++++++++++++++++++++++++++++
+
+- Have the ability to store Logs for periods of time
+
+- Fast Searching and viewing of data
+
+- Provice access control to stored data
+	(Especialy if the data is for multiple clients)
+
+
+
++++++++++++++++++++++++++++++++++++
+Visualization
++++++++++++++++++++++++++++++++++++
+
+- View logs via eg. Dashboards
+
+- Fast searching and viewing of data eg Elasticsearch 
+
+- Support the ability to read from multiple log storages. eg. Elasticsearch, MYSQL
+
+
++++++++++++++++++++++++++++++++++++
+Intelligence Enrichment
++++++++++++++++++++++++++++++++++++
+
+- A way to automate the analysis process by using threat intelligence tools and make alert according to outcome.
+
+- For the logs received make more meaningful with threat intelligence from various providers
+
+- The log data is parsed and stored so that only crucial data is stored.
+
+
++++++++++++++++++++++++++++++++++++
+Case Management
++++++++++++++++++++++++++++++++++++
+
+- Allows one to make a case on a security incident and colaborate with team members
+	(Follow the procedures for when an incident occurs eg. quarantine)	
+
+- The platform allows viewing and reacting to HIGH severity events.
+
+
++++++++++++++++++++++++++++++++++++
+Automate
++++++++++++++++++++++++++++++++++++
+
+- Automate the workflow (critical alerst, failed health checks or ticket analysis)
+
+
+
++++++++++++++++++++++++++++++++++++
+Investigation
++++++++++++++++++++++++++++++++++++
+
+- Platform should aenable ability to respond to incidents
+
+- Ability to verify the alert is a true positive, how to quarantine the device.
+
+
+
++++++++++++++++++++++++++++++++++++
+Health Monitoring
++++++++++++++++++++++++++++++++++++
+
+- Monitor resources consumed on the endpoints
+
+- Monitor services whose stoppage would cause operational impact.
+
+- Alert when health check threashholds are met.
+
+
+
+
+
+
+
+
+===========================================
+Free Tools Available
+===========================================
+
++++++++++++++++++++++++++++++++++++
+Log Analysis ( Wazuh )
++++++++++++++++++++++++++++++++++++
+
+- Analyze logs from Endpoints & Services
+
+- Ability for custom rules
+
+- Ability to discard noisy alerts Limiting overflow of unnecessary data
+
+
+
++++++++++++++++++++++++++++++++++++
+Log Ingestion ( Graylog )
++++++++++++++++++++++++++++++++++++
+
+- Collect logs originating on Endpoint devices, Network Devices and 3rd party Devices
+
+- Normalise Log fields to universal name for faster searching and better visualization.
+
+- Ensure caching of logs by graylog if backed storage is busy or offline
+
+
+
++++++++++++++++++++++++++++++++++++
+Backend Storage ( Wazuh Indexer & Casandra )
++++++++++++++++++++++++++++++++++++
+
+- Store received logs for a period of time
+
+- Fast Searching and viewing of data.
+
+- Access controle to stored data
+
+ 
++++++++++++++++++++++++++++++++++++
+Visuaization ( Grafana )
++++++++++++++++++++++++++++++++++++
+
+- View Logs via dashboards and widgets.
+
+- Search and view data.
+
+- Read from multiple log storage. (MYSQL ELASTICSEARCH)
+
+
+
+++++++++++++++++++++++++++++++++++++++++++
+Intelligence Enrichment ( OpenCTI / MISP )
+++++++++++++++++++++++++++++++++++++++++++
+
+- Enable feeds to enrich data on the fly using threat intell tools
+	(For this IP do you have any feeds, does it have history of being malicious)
+
+
+
+++++++++++++++++++++++++++++++++++++++++++
+Case Management( TheHIVE/ Cortex )
+++++++++++++++++++++++++++++++++++++++++++
+
+- TheHive for 
+	Storing the case (Casandra Backend)
+	View and react to event
+	Used to assign tasks among team members 
+
+
+++++++++++++++++++++++++++++++++++++++++++
+Automate ( Shuffle )
+++++++++++++++++++++++++++++++++++++++++++
+
+- Automate the workflow while responding to critical alerts, failed health track, ticket analysis
+
+- Automaticaly create cases
+
+- Upgrading our agents
+
+
+
+++++++++++++++++++++++++++++++++++++++++++
+Investigation ( Velaciraptor)
+++++++++++++++++++++++++++++++++++++++++++
+
+- Will be having its agents lacated at endpoint devices (Linux Mac Windows)
+
+- Can have jobs which enable SOC to get user activity and quarantine a device and do forensics
+	(List the web browser histry of an account)
+
+ 
+
+
+
++++++++++++++++++++++++++++++++++++++++++++
+Health Monitoring ( InfluxDB / Uptime Kuma )
++++++++++++++++++++++++++++++++++++++++++++
+
+- Monitor resources consumed on endpoints and services 
+	(Check whether ElasticSearch has enough: disk space, memory)
+
+- Ensure web pages are online and accesible. (Uptime Kuma gets 200 response)
+ 
+
+
+
+
+
+
