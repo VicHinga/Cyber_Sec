@@ -39,7 +39,7 @@ Log Ingestion
 Log Analysis
 +++++++++++++++++++++++++++++++++++
 
-- Need a way to customize rules to feet environment needs 
+- Need a way to customize rules to fit environment needs 
 
 - Determine the severity of logs ingested via log analysis
 
